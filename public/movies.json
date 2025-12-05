@@ -1,0 +1,7179 @@
+[
+  {
+    "title": "The Mummy Murders",
+    "month": "JANUARY",
+    "openingDate": "2",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Horror",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Mummy_Murders.jpg"
+  },
+  {
+    "title": "Self Reliance",
+    "month": "JANUARY",
+    "openingDate": "3",
+    "productionCompany": "Neon/Hulu/MRC/Paramount Global Content Distribution",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Self_Reliance.jpg"
+  },
+  {
+    "title": "DarkGame",
+    "month": "JANUARY",
+    "openingDate": "4",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "DarkGame.jpg"
+  },
+  {
+    "title": "Society of the Snow",
+    "month": "JANUARY",
+    "openingDate": "4",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Biography"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": "Society_of_the_Snow.jpg"
+  },
+  {
+    "title": "Night Swim",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Universal Pictures/Blumhouse Productions/Atomic Monster",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Night_Swim.jpg"
+  },
+  {
+    "title": "Foe",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Amazon MGM Studios",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Foe.jpg"
+  },
+  {
+    "title": "Good Grief",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Good_Grief.jpg"
+  },
+  {
+    "title": "Race for Glory: Audi vs. Lancia",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "RAI/Signature Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Race_for_Glory_Audi_vs._Lancia.jpg"
+  },
+  {
+    "title": "He Went That Way",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Vertical Entertainment/Mister Smith Entertainment",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "He_Went_That_Way.jpg"
+  },
+  {
+    "title": "The Painter",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Republic Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Painter.jpg"
+  },
+  {
+    "title": "The Bricklayer",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Vertical Entertainment/Millennium Media",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Bricklayer.jpg"
+  },
+  {
+    "title": "Some Other Woman",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Radiant Films International / Balcony 9 Productions",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Some_Other_Woman.jpg"
+  },
+  {
+    "title": "Fugitive Dreams",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Freestyle Releasing",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Fugitive_Dreams.jpg"
+  },
+  {
+    "title": "Husband for Sale",
+    "month": "JANUARY",
+    "openingDate": "5",
+    "productionCompany": "Media Ave Studios",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Husband_for_Sale.jpg"
+  },
+  {
+    "title": "The Beekeeper",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "Metro-Goldwyn-Mayer/Miramax",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Beekeeper.jpg"
+  },
+  {
+    "title": "Mean Girls",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "Paramount Pictures/Broadway Video/Little Stranger",
+    "genres": [
+      "Musical",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Mean_Girls.jpg"
+  },
+  {
+    "title": "The Book of Clarence",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "TriStar Pictures/Legendary Pictures",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Book_of_Clarence.jpg"
+  },
+  {
+    "title": "Lift",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "Netflix/Genre Films/6th & Idaho Productions",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Lift.jpg"
+  },
+  {
+    "title": "Role Play",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "Amazon MGM Studios/The Picture Company/StudioCanal",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Role_Play.jpg"
+  },
+  {
+    "title": "The Night They Came Home",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "Lionsgate Home Entertainment",
+    "genres": [
+      "Western"
+    ],
+    "primaryGenre": "Western",
+    "posterFilename": "The_Night_They_Came_Home.jpg"
+  },
+  {
+    "title": "Destroy All Neighbors",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "RLJE Films/Shudder",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Destroy_All_Neighbors.jpg"
+  },
+  {
+    "title": "The Kitchen",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "The_Kitchen.jpg"
+  },
+  {
+    "title": "Hellhound",
+    "month": "JANUARY",
+    "openingDate": "12",
+    "productionCompany": "Saban Films/ Mbrella Films",
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Hellhound.jpg"
+  },
+  {
+    "title": "Wanted Man",
+    "month": "JANUARY",
+    "openingDate": "17",
+    "productionCompany": "Quiver Distribution/Millennium Media",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Wanted_Man.jpg"
+  },
+  {
+    "title": "Eno",
+    "month": "JANUARY",
+    "openingDate": "18",
+    "productionCompany": "Film First Co./Tigerlily Productions",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Eno.jpg"
+  },
+  {
+    "title": "I.S.S.",
+    "month": "JANUARY",
+    "openingDate": "19",
+    "productionCompany": "Bleecker Street/LD Entertainment",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller",
+      "Action",
+      "Drama"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "I.S.S..jpg"
+  },
+  {
+    "title": "Origin",
+    "month": "JANUARY",
+    "openingDate": "19",
+    "productionCompany": "Neon",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Origin.jpg"
+  },
+  {
+    "title": "Bring Him to Me",
+    "month": "JANUARY",
+    "openingDate": "19",
+    "productionCompany": "Rialto Distribution",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Bring_Him_to_Me.jpg"
+  },
+  {
+    "title": "Sunrise",
+    "month": "JANUARY",
+    "openingDate": "19",
+    "productionCompany": "Lionsgate/Grindstone Entertainment Group",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Sunrise.jpg"
+  },
+  {
+    "title": "Which Brings Me to You",
+    "month": "JANUARY",
+    "openingDate": "19",
+    "productionCompany": "Decal/Anonymous Content",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Which_Brings_Me_to_You.jpg"
+  },
+  {
+    "title": "Cult Killer",
+    "month": "JANUARY",
+    "openingDate": "19",
+    "productionCompany": "Saban Films",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Cult_Killer.jpg"
+  },
+  {
+    "title": "Founders Day",
+    "month": "JANUARY",
+    "openingDate": "19",
+    "productionCompany": "Dark Sky Films / Blue Finch Films / Mainframe Pictures",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Comedy"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Founders_Day.jpg"
+  },
+  {
+    "title": "Murder and Cocktails",
+    "month": "JANUARY",
+    "openingDate": "23",
+    "productionCompany": "905 Productions / Vision Films",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Comedy"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Murder_and_Cocktails.jpg"
+  },
+  {
+    "title": "Beautiful Wedding",
+    "month": "JANUARY",
+    "openingDate": "24",
+    "productionCompany": "Voltage Pictures/Wattpad Studios",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Beautiful_Wedding.jpg"
+  },
+  {
+    "title": "Miller's Girl",
+    "month": "JANUARY",
+    "openingDate": "26",
+    "productionCompany": "Lionsgate/Point Grey Pictures",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": null
+  },
+  {
+    "title": "The Underdoggs",
+    "month": "JANUARY",
+    "openingDate": "26",
+    "productionCompany": "Amazon MGM Studios/Metro-Goldwyn-Mayer/Khalabo Ink Society",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Underdoggs.jpg"
+  },
+  {
+    "title": "Sometimes I Think About Dying",
+    "month": "JANUARY",
+    "openingDate": "26",
+    "productionCompany": "Oscilloscope Laboratories",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Sometimes_I_Think_About_Dying.jpg"
+  },
+  {
+    "title": "American Star",
+    "month": "JANUARY",
+    "openingDate": "26",
+    "productionCompany": "IFC Films",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "American_Star.jpg"
+  },
+  {
+    "title": "Cold Copy",
+    "month": "JANUARY",
+    "openingDate": "26",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Cold_Copy.jpg"
+  },
+  {
+    "title": "Junction",
+    "month": "JANUARY",
+    "openingDate": "26",
+    "productionCompany": "VMI Releasing / Verdi Productions",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Junction.jpg"
+  },
+  {
+    "title": "Hundreds of Beavers",
+    "month": "JANUARY",
+    "openingDate": "26",
+    "productionCompany": "SRH",
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Hundreds_of_Beavers.jpg"
+  },
+  {
+    "title": "There Is a Monster",
+    "month": "JANUARY",
+    "openingDate": "30",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "There_Is_a_Monster.jpg"
+  },
+  {
+    "title": "Argylle",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Universal Pictures / Apple TV+ / Marv Studios",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Argylle.jpg"
+  },
+  {
+    "title": "Orion and the Dark",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Netflix/DreamWorks Animation",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Orion_and_the_Dark.jpg"
+  },
+  {
+    "title": "The Tiger's Apprentice",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Paramount+/Paramount Animation/New Republic Pictures",
+    "genres": [
+      "Kids & Family",
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": null
+  },
+  {
+    "title": "Suncoast",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Searchlight Pictures/Hulu",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Suncoast.jpg"
+  },
+  {
+    "title": "Disco Boy",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Big World Pictures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Disco_Boy.jpg"
+  },
+  {
+    "title": "The Promised Land",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Nordisk Film",
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Promised_Land.jpg"
+  },
+  {
+    "title": "Scrambled",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Lionsgate/Roadside Attractions",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Scrambled.jpg"
+  },
+  {
+    "title": "Bosco",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Peacock",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Bosco.jpg"
+  },
+  {
+    "title": "How to Have Sex",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Film4/BFI/mk2 Films",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "How_to_Have_Sex.jpg"
+  },
+  {
+    "title": "Somewhere Quiet",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Somewhere_Quiet.jpg"
+  },
+  {
+    "title": "The Monk and the Gun",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Roadside Attractions",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Monk_and_the_Gun.jpg"
+  },
+  {
+    "title": "A Nashville Wish",
+    "month": "FEBRUARY",
+    "openingDate": "2",
+    "productionCompany": "Vision Films / Brentwood Avenue Entertainment / D Street Films",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "A_Nashville_Wish.jpg"
+  },
+  {
+    "title": "Lisa Frankenstein",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Focus Features",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Lisa_Frankenstein.jpg"
+  },
+  {
+    "title": "Upgraded",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Amazon MGM Studios",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Upgraded.jpg"
+  },
+  {
+    "title": "Air Force One Down",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Republic Pictures",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Air_Force_One_Down.jpg"
+  },
+  {
+    "title": "Lola",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Lola.jpg"
+  },
+  {
+    "title": "Drift",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Utopia",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Drift.jpg"
+  },
+  {
+    "title": "Lover, Stalker, Killer",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "primaryGenre": "Crime",
+    "posterFilename": null
+  },
+  {
+    "title": "Willie and Me",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Willie_and_Me.jpg"
+  },
+  {
+    "title": "Marmalade",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Signature Films/ Tea Shop Productions",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Romance"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Marmalade.jpg"
+  },
+  {
+    "title": "Out of Darkness",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Signature Films",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Out_of_Darkness.jpg"
+  },
+  {
+    "title": "The Taste of Things",
+    "month": "FEBRUARY",
+    "openingDate": "9",
+    "productionCompany": "Gaumont",
+    "genres": [
+      "Drama",
+      "Romance",
+      "History"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "The_Taste_of_Things.jpg"
+  },
+  {
+    "title": "ElemenTory",
+    "month": "FEBRUARY",
+    "openingDate": "13",
+    "productionCompany": "Vision Films",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "ElemenTory.jpg"
+  },
+  {
+    "title": "Adam the First",
+    "month": "FEBRUARY",
+    "openingDate": "14",
+    "productionCompany": "Nova Vento Entertainment/Electric Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Adam_the_First.jpg"
+  },
+  {
+    "title": "Bob Marley: One Love",
+    "month": "FEBRUARY",
+    "openingDate": "14",
+    "productionCompany": "Paramount Pictures/Plan B Entertainment/Tuff Gong Pictures",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Bob_Marley_One_Love.jpg"
+  },
+  {
+    "title": "Madame Web",
+    "month": "FEBRUARY",
+    "openingDate": "14",
+    "productionCompany": "Columbia Pictures/Marvel Entertainment/Di Bonaventura Pictures/TSG Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Madame_Web.jpg"
+  },
+  {
+    "title": "Players",
+    "month": "FEBRUARY",
+    "openingDate": "14",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Players.jpg"
+  },
+  {
+    "title": "What About Love",
+    "month": "FEBRUARY",
+    "openingDate": "14",
+    "productionCompany": "XWS / Quality Films / Accident Films",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "What_About_Love.jpg"
+  },
+  {
+    "title": "Stranger in the Woods",
+    "month": "FEBRUARY",
+    "openingDate": "14",
+    "productionCompany": "Red Hound Films / Wonk",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Stranger_in_the_Woods.jpg"
+  },
+  {
+    "title": "This Is Me... Now: A Love Story",
+    "month": "FEBRUARY",
+    "openingDate": "16",
+    "productionCompany": "Amazon MGM Studios/Nuyorican Productions",
+    "genres": [
+      "Musical"
+    ],
+    "primaryGenre": "Musical",
+    "posterFilename": "This_Is_Me..._Now_A_Love_Story.jpg"
+  },
+  {
+    "title": "Land of Bad",
+    "month": "FEBRUARY",
+    "openingDate": "16",
+    "productionCompany": "The Avenue / Highland Film Group",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Land_of_Bad.jpg"
+  },
+  {
+    "title": "Bleeding Love",
+    "month": "FEBRUARY",
+    "openingDate": "16",
+    "productionCompany": "Vertical Entertainment/Killer Films",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Bleeding_Love.jpg"
+  },
+  {
+    "title": "Lights Out",
+    "month": "FEBRUARY",
+    "openingDate": "16",
+    "productionCompany": "Quiver Distribution/ Firebrand",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Lights_Out.jpg"
+  },
+  {
+    "title": "No Way Up",
+    "month": "FEBRUARY",
+    "openingDate": "16",
+    "productionCompany": "RLJE Films/Altitude Film Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "No_Way_Up.jpg"
+  },
+  {
+    "title": "Altered Reality",
+    "month": "FEBRUARY",
+    "openingDate": "16",
+    "productionCompany": "K Street Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Altered_Reality.jpg"
+  },
+  {
+    "title": "Lovely",
+    "month": "FEBRUARY",
+    "openingDate": "22",
+    "productionCompany": " Dark",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Lovely.jpg"
+  },
+  {
+    "title": "Drive-Away Dolls",
+    "month": "FEBRUARY",
+    "openingDate": "23",
+    "productionCompany": "Focus Features/Working Title Films",
+    "genres": [
+      "Comedy",
+      "LGBTQ+",
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Drive-Away_Dolls.jpg"
+  },
+  {
+    "title": "Ordinary Angels",
+    "month": "FEBRUARY",
+    "openingDate": "23",
+    "productionCompany": "Lionsgate/Kingdom Story Company/Vertigo Entertainment/Stampede Ventures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Ordinary_Angels.jpg"
+  },
+  {
+    "title": "Mea Culpa",
+    "month": "FEBRUARY",
+    "openingDate": "23",
+    "productionCompany": "Netflix/Tyler Perry Studios",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Mea_Culpa.jpg"
+  },
+  {
+    "title": "Drugstore June",
+    "month": "FEBRUARY",
+    "openingDate": "23",
+    "productionCompany": "Shout! Studios/All Things Comedy/Utopia",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Drugstore_June.jpg"
+  },
+  {
+    "title": "Right Hand Red",
+    "month": "FEBRUARY",
+    "openingDate": "23",
+    "productionCompany": "Redbox Entertainment/Magnolia Pictures",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Right_Hand_Red.jpg"
+  },
+  {
+    "title": "Parallel",
+    "month": "FEBRUARY",
+    "openingDate": "23",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Parallel.jpg"
+  },
+  {
+    "title": "Blue Christmas",
+    "month": "FEBRUARY",
+    "openingDate": "24",
+    "productionCompany": "Dreampost Media",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Blue_Christmas.jpg"
+  },
+  {
+    "title": "No Other Land",
+    "month": "FEBRYARY",
+    "openingDate": "17",
+    "productionCompany": "Yabayay Media/Antipode Films",
+    "genres": [
+      "Documentary"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "No_Other_Land.jpg"
+  },
+  {
+    "title": "Dune: Part Two",
+    "month": "MARCH",
+    "openingDate": "1",
+    "productionCompany": "Warner Bros. Pictures / Legendary Pictures",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Action",
+      "Fantasy",
+      "Drama"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Dune_Part_Two.jpg"
+  },
+  {
+    "title": "Spaceman",
+    "month": "MARCH",
+    "openingDate": "1",
+    "productionCompany": "Netflix/Tango Entertainment/Free Association",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Spaceman.jpg"
+  },
+  {
+    "title": "Problemista",
+    "month": "MARCH",
+    "openingDate": "1",
+    "productionCompany": "A24/Fruit Tree",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Problemista.jpg"
+  },
+  {
+    "title": "Megamind vs. the Doom Syndicate",
+    "month": "MARCH",
+    "openingDate": "1",
+    "productionCompany": "Peacock/DreamWorks Animation Television",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Megamind_vs._the_Doom_Syndicate.jpg"
+  },
+  {
+    "title": "Outlaw Posse",
+    "month": "MARCH",
+    "openingDate": "1",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Outlaw_Posse.jpg"
+  },
+  {
+    "title": "Asleep in My Palm",
+    "month": "MARCH",
+    "openingDate": "1",
+    "productionCompany": "Strike Back Studios",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Asleep_in_My_Palm.jpg"
+  },
+  {
+    "title": "Shayda",
+    "month": "MARCH",
+    "openingDate": "1",
+    "productionCompany": "Madman Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Shayda.jpg"
+  },
+  {
+    "title": "Ricky Stanicky",
+    "month": "MARCH",
+    "openingDate": "7",
+    "productionCompany": "Amazon MGM Studios",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Ricky_Stanicky.jpg"
+  },
+  {
+    "title": "The Thundermans Return",
+    "month": "MARCH",
+    "openingDate": "7",
+    "productionCompany": "Paramount+/Nickelodeon Movies/Awesomeness Films",
+    "genres": [
+      "Kids & Family",
+      "Action",
+      "Comedy"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Thundermans_Return.jpg"
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "Universal Pictures/DreamWorks Animation",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Kung_Fu_Panda_4.jpg"
+  },
+  {
+    "title": "Imaginary",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "Lionsgate/Blumhouse Productions",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Imaginary.jpg"
+  },
+  {
+    "title": "Damsel",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "Netflix/Roth/Kirschenbaum Films",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Action"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Damsel.jpg"
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "A24/Film4",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama",
+      "LGBTQ+",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Love_Lies_Bleeding.jpg"
+  },
+  {
+    "title": "Cabrini",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "Angel Studios",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Cabrini.jpg"
+  },
+  {
+    "title": "Accidental Texan",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "Roadside Attractions",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Accidental_Texan.jpg"
+  },
+  {
+    "title": "American Dreamer",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "American_Dreamer.jpg"
+  },
+  {
+    "title": "Night Shift",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Night_Shift.jpg"
+  },
+  {
+    "title": "Glitter & Doom",
+    "month": "MARCH",
+    "openingDate": "8",
+    "productionCompany": "Music Box Films",
+    "genres": [
+      "Musical",
+      "LGBTQ+",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Glitter_&_Doom.jpg"
+  },
+  {
+    "title": "The Primevals",
+    "month": "MARCH",
+    "openingDate": "11",
+    "productionCompany": "Full Moon Entertainment/Castel Film Romania",
+    "genres": [
+      "Sci-Fi",
+      "Animation",
+      "Adventure"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "The_Primevals.jpg"
+  },
+  {
+    "title": "Little Wing",
+    "month": "MARCH",
+    "openingDate": "13",
+    "productionCompany": "Paramount+/Awesomeness Films",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Little_Wing.jpg"
+  },
+  {
+    "title": "Arthur the King",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Lionsgate/Entertainment One/Tucker Tooley Entertainment",
+    "genres": [
+      "Drama",
+      "Adventure"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": "Arthur_the_King.jpg"
+  },
+  {
+    "title": "The Neon Highway",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Sessions Production Payroll / Mountain Movies",
+    "genres": [
+      "Music",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Neon_Highway.jpg"
+  },
+  {
+    "title": "The American Society of Magical Negroes",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Focus Features",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "The_American_Society_of_Magical_Negroes.jpg"
+  },
+  {
+    "title": "Shirley",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Netflix/Participant/Royal Ties Productions",
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Shirley.jpg"
+  },
+  {
+    "title": "Irish Wish",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Netflix/Motion Picture Corporation of America",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Irish_Wish.jpg"
+  },
+  {
+    "title": "One Life",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Bleecker Street/BBC Film/FilmNation Entertainment",
+    "genres": [
+      "History",
+      "Drama",
+      "Biography"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "One_Life.jpg"
+  },
+  {
+    "title": "Knox Goes Away",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Saban Films/FilmNation Entertainment/Brookstreet Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Knox_Goes_Away.jpg"
+  },
+  {
+    "title": "Snack Shack",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Republic Pictures/MRC/T-Street",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Snack_Shack.jpg"
+  },
+  {
+    "title": "Prey",
+    "month": "MARCH",
+    "openingDate": "15",
+    "productionCompany": "Vertical/Voltage Pictures",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Prey.jpg"
+  },
+  {
+    "title": "Bardejov",
+    "month": "MARCH",
+    "openingDate": "19",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Bardejov.jpg"
+  },
+  {
+    "title": "Road House",
+    "month": "MARCH",
+    "openingDate": "21",
+    "productionCompany": "Amazon Prime Video/Metro-Goldwyn-Mayer/Silver Pictures",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Road_House.jpg"
+  },
+  {
+    "title": "Earlybird",
+    "month": "MARCH",
+    "openingDate": "21",
+    "productionCompany": "Good Deed Entertainment",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Earlybird.jpg"
+  },
+  {
+    "title": "Ghostbusters: Frozen Empire",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "Columbia Pictures/Ghost Corps/TSG Entertainment",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Adventure"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Ghostbusters_Frozen_Empire.jpg"
+  },
+  {
+    "title": "Immaculate",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "Neon/Black Bear Pictures",
+    "genres": [
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Immaculate.jpg"
+  },
+  {
+    "title": "Late Night with the Devil",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "IFC Films/Shudder/Image Nation/Cinetic Media/AGC Studios",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Late_Night_with_the_Devil.jpg"
+  },
+  {
+    "title": "Sleeping Dogs",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "The Avenue / Nickel City Productions / Highland Film Group",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Sleeping_Dogs.jpg"
+  },
+  {
+    "title": "Rose's War",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "Bankside Films",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": null
+  },
+  {
+    "title": "The Casagrandes Movie",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "Netflix/Nickelodeon Animation Studio",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Casagrandes_Movie.jpg"
+  },
+  {
+    "title": "Peter Five Eight",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "Invincible Entertainment",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Peter_Five_Eight.jpg"
+  },
+  {
+    "title": "Riddle of Fire",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "Vinegar Syndrome/ Yellow Veil Pictures",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Riddle_of_Fire.jpg"
+  },
+  {
+    "title": "Free Time",
+    "month": "MARCH",
+    "openingDate": "22",
+    "productionCompany": "Cartilage Films",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Free_Time.jpg"
+  },
+  {
+    "title": "Easter Bloody Easter",
+    "month": "MARCH",
+    "openingDate": "26",
+    "productionCompany": "WallyBird Productions",
+    "genres": [
+      "Holiday",
+      "Horror",
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Easter_Bloody_Easter.jpg"
+  },
+  {
+    "title": "Godzilla x Kong: The New Empire",
+    "month": "MARCH",
+    "openingDate": "29",
+    "productionCompany": "Warner Bros. Pictures/Legendary Pictures",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Godzilla_x_Kong_The_New_Empire.jpg"
+  },
+  {
+    "title": "Asphalt City",
+    "month": "MARCH",
+    "openingDate": "29",
+    "productionCompany": "Roadside Attractions/Vertical Entertainment/FilmNation Entertainment",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Asphalt_City.jpg"
+  },
+  {
+    "title": "The Beautiful Game",
+    "month": "MARCH",
+    "openingDate": "29",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Beautiful_Game.jpg"
+  },
+  {
+    "title": "The Listener",
+    "month": "MARCH",
+    "openingDate": "29",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Listener.jpg"
+  },
+  {
+    "title": "Lousy Carter",
+    "month": "MARCH",
+    "openingDate": "29",
+    "productionCompany": "Magnolia Pictures",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Lousy_Carter.jpg"
+  },
+  {
+    "title": "Wicked Little Letters",
+    "month": "MARCH",
+    "openingDate": "29",
+    "productionCompany": "StudioCanal/Sony Pictures",
+    "genres": [
+      "Comedy",
+      "History",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Wicked_Little_Letters.jpg"
+  },
+  {
+    "title": "Música",
+    "month": "APRIL",
+    "openingDate": "4",
+    "productionCompany": "Amazon MGM Studios / Wonderland Sound and Vision",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Música.jpg"
+  },
+  {
+    "title": "The First Omen",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "20th Century Studios/TSG Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_First_Omen.jpg"
+  },
+  {
+    "title": "Monkey Man",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "Universal Pictures/Bron Studios/Thunder Road Films/Monkeypaw Productions",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Monkey_Man.jpg"
+  },
+  {
+    "title": "The Greatest Hits",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "Searchlight Pictures/Hulu",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy",
+      "Musical"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Greatest_Hits.jpg"
+  },
+  {
+    "title": "Parachute",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Parachute.jpg"
+  },
+  {
+    "title": "Strictly Confidential",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Strictly_Confidential.jpg"
+  },
+  {
+    "title": "A Bit of Light",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "Quiver Distribution/ICM Partners",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "A_Bit_of_Light.jpg"
+  },
+  {
+    "title": "The People's Joker",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "Altered Innocence / Haunted Gay Ride Productions",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Housekeeping for Beginners",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "Focus Features/Tango Entertainment",
+    "genres": [
+      "Drama",
+      "LGBTQ+"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Housekeeping_for_Beginners.jpg"
+  },
+  {
+    "title": "Model House",
+    "month": "APRIL",
+    "openingDate": "5",
+    "productionCompany": "Shout! Studios/ Rebellium Films",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Model_House.jpg"
+  },
+  {
+    "title": "Civil War",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "A24/DNA Films/IPR.VC",
+    "genres": [
+      "Action",
+      "War",
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Civil_War.jpg"
+  },
+  {
+    "title": "Rebel Moon – Part Two: The Scargiver",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Netflix/The Stone Quarry",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Rebel_Moon_–_Part_Two_The_Scargiver.jpg"
+  },
+  {
+    "title": "Damaged",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Lionsgate/Signature Entertainment",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Damaged.jpg"
+  },
+  {
+    "title": "The Absence of Eden",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Roadside Attractions/Vertical Entertainment/Ingenious Media",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Absence_of_Eden.jpg"
+  },
+  {
+    "title": "Sasquatch Sunset",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Bleecker Street/Square Peg",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Adventure"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Sasquatch_Sunset.jpg"
+  },
+  {
+    "title": "Sweet Dreams",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Paramount Pictures/ The Barnum Picture Company",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Sweet_Dreams.jpg"
+  },
+  {
+    "title": "Woody Woodpecker Goes to Camp",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Netflix/Universal 1440 Entertainment",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Woody_Woodpecker_Goes_to_Camp.jpg"
+  },
+  {
+    "title": "LaRoy, Texas",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Brainstorm Media / Adastra Films",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": null
+  },
+  {
+    "title": "The Long Game",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Mucho Mas Releasing /Fifth Season",
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Long_Game.jpg"
+  },
+  {
+    "title": "Arcadian",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "RLJE Films/Saturn Films",
+    "genres": [
+      "Horror",
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Arcadian.jpg"
+  },
+  {
+    "title": "Don't Tell Mom the Babysitter's Dead",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "Iconic Events Releasing /BET+",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Sting",
+    "month": "APRIL",
+    "openingDate": "12",
+    "productionCompany": "See Pictures",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Sting.jpg"
+  },
+  {
+    "title": "Blackbird Blackbird Blackberry",
+    "month": "APRIL",
+    "openingDate": "18",
+    "productionCompany": "Alva Film",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Blackbird_Blackbird_Blackberry.jpg"
+  },
+  {
+    "title": "Abigail",
+    "month": "APRIL",
+    "openingDate": "19",
+    "productionCompany": "Universal Pictures/Radio Silence Productions",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Abigail.jpg"
+  },
+  {
+    "title": "The Ministry of Ungentlemanly Warfare",
+    "month": "APRIL",
+    "openingDate": "19",
+    "productionCompany": "Lionsgate/Black Bear Pictures/Jerry Bruckheimer Films",
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Ministry_of_Ungentlemanly_Warfare.jpg"
+  },
+  {
+    "title": "We Grown Now",
+    "month": "APRIL",
+    "openingDate": "19",
+    "productionCompany": "Sony Pictures Classics/Stage 6 Films/Participant",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "We_Grown_Now.jpg"
+  },
+  {
+    "title": "Blood for Dust",
+    "month": "APRIL",
+    "openingDate": "19",
+    "productionCompany": "The Avenue",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Blood_for_Dust.jpg"
+  },
+  {
+    "title": "Stress Positions",
+    "month": "APRIL",
+    "openingDate": "19",
+    "productionCompany": "Neon",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Stress_Positions.jpg"
+  },
+  {
+    "title": "Hard Miles",
+    "month": "APRIL",
+    "openingDate": "19",
+    "productionCompany": "Blue Fox Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Hard_Miles.jpg"
+  },
+  {
+    "title": "Hanky Panky",
+    "month": "APRIL",
+    "openingDate": "19",
+    "productionCompany": "A Group of Ferrets / Happy Canyon Club",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Hanky_Panky.jpg"
+  },
+  {
+    "title": "Downtown Owl",
+    "month": "APRIL",
+    "openingDate": "23",
+    "productionCompany": "Stage 6 Films",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Downtown_Owl.jpg"
+  },
+  {
+    "title": "Challengers",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "Metro-Goldwyn-Mayer/Pascal Pictures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Challengers.jpg"
+  },
+  {
+    "title": "Boy Kills World",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "Lionsgate/Roadside Attractions/Vertigo Entertainment",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Boy_Kills_World.jpg"
+  },
+  {
+    "title": "Nowhere Special",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "RAI Cinema",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Nowhere_Special.jpg"
+  },
+  {
+    "title": "Unsung Hero",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "Lionsgate/Kingdom Story Company",
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Unsung_Hero.jpg"
+  },
+  {
+    "title": "Breathe",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "Variance Films/Thunder Road Films",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Breathe.jpg"
+  },
+  {
+    "title": "Humane",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "IFC Films/Elevation Pictures/XYZ Films",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Humane.jpg"
+  },
+  {
+    "title": "The Feeling That the Time for Doing Something Has Passed",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "Magnolia Pictures",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Feeling_That_the_Time_for_Doing_Something_Has_Passed.jpg"
+  },
+  {
+    "title": "Evil Does Not Exist",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "NEOPA Inc.",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Evil_Does_Not_Exist.jpg"
+  },
+  {
+    "title": "Cash Out",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "Saban Films",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Cash_Out.jpg"
+  },
+  {
+    "title": "Bloodline Killer",
+    "month": "APRIL",
+    "openingDate": "26",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Bloodline_Killer.jpg"
+  },
+  {
+    "title": "The Idea of You",
+    "month": "MAY",
+    "openingDate": "2",
+    "productionCompany": "Amazon MGM Studios",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Idea_of_You.jpg"
+  },
+  {
+    "title": "Turtles All the Way Down",
+    "month": "MAY",
+    "openingDate": "2",
+    "productionCompany": "Max/Warner Bros. Pictures/New Line Cinema/Temple Hill Entertainment",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Turtles_All_the_Way_Down.jpg"
+  },
+  {
+    "title": "The Fall Guy",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "Universal Pictures/87North Productions",
+    "genres": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Fall_Guy.jpg"
+  },
+  {
+    "title": "Tarot",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "Screen Gems/Alloy Entertainment/TSG Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "Unfrosted",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "Netflix/Columbus 81 Productions",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Unfrosted.jpg"
+  },
+  {
+    "title": "I Saw the TV Glow",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "A24/Fruit Tree/Access Entertainment",
+    "genres": [
+      "Sci-Fi",
+      "Horror",
+      "Drama",
+      "LGBTQ+",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "I_Saw_the_TV_Glow.jpg"
+  },
+  {
+    "title": "Wildcat",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "Oscilloscope Laboratories",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Wildcat.jpg"
+  },
+  {
+    "title": "Prom Dates",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "Hulu/LD Entertainment/Hartbeat Productions",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Prom_Dates.jpg"
+  },
+  {
+    "title": "Chief of Station",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "Vertical Entertainment",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Chief_of_Station.jpg"
+  },
+  {
+    "title": "New Life",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "Brainstorm Media/XYZ Films",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "New_Life.jpg"
+  },
+  {
+    "title": "Lost Soulz",
+    "month": "MAY",
+    "openingDate": "3",
+    "productionCompany": "Kino Lorber",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Lost_Soulz.jpg"
+  },
+  {
+    "title": "Do Not Expect Too Much from the End of the World",
+    "month": "MAY",
+    "openingDate": "4",
+    "productionCompany": "Mubi",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Do_Not_Expect_Too_Much_from_the_End_of_the_World.jpg"
+  },
+  {
+    "title": "Mother of the Bride",
+    "month": "MAY",
+    "openingDate": "9",
+    "productionCompany": "Netflix/Living Films",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Mother_of_the_Bride.jpg"
+  },
+  {
+    "title": "Aisha",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "BBC Film",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Aisha.jpg"
+  },
+  {
+    "title": "My Ex-Friends Wedding",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "Circle of Confusion",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "My_Ex-Friends_Wedding.jpg"
+  },
+  {
+    "title": "Kingdom of the Planet of the Apes",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "20th Century Studios/TSG Entertainment",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Kingdom_of_the_Planet_of_the_Apes.jpg"
+  },
+  {
+    "title": "Poolman",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "Vertical Entertainment/AGC Studios",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Poolman.jpg"
+  },
+  {
+    "title": "Not Another Church Movie",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "Briarcliff Entertainment",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Not_Another_Church_Movie.jpg"
+  },
+  {
+    "title": "The Last Stop in Yuma County",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "Well Go USA Entertainment",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Last_Stop_in_Yuma_County.jpg"
+  },
+  {
+    "title": "The Image of You",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "Republic Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Image_of_You.jpg"
+  },
+  {
+    "title": "Gasoline Rainbow",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "Mubi/XTR",
+    "genres": [
+      "Adventure",
+      "Documentary",
+      "Drama"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": "Gasoline_Rainbow.jpg"
+  },
+  {
+    "title": "Aggro Dr1ft",
+    "month": "MAY",
+    "openingDate": "10",
+    "productionCompany": "EDGLRD",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Aggro_Dr1ft.jpg"
+  },
+  {
+    "title": "IF",
+    "month": "MAY",
+    "openingDate": "17",
+    "productionCompany": "Paramount Pictures/Sunday Night Productions/Maximum Effort",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "IF.jpg"
+  },
+  {
+    "title": "The Strangers: Chapter 1",
+    "month": "MAY",
+    "openingDate": "17",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Strangers_Chapter_1.jpg"
+  },
+  {
+    "title": "Back to Black",
+    "month": "MAY",
+    "openingDate": "17",
+    "productionCompany": "Focus Features/StudioCanal/Monumental Pictures",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Back_to_Black.jpg"
+  },
+  {
+    "title": "Thelma the Unicorn",
+    "month": "MAY",
+    "openingDate": "17",
+    "productionCompany": "Netflix/Netflix Animation/Scholastic Entertainment",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Thelma_the_Unicorn.jpg"
+  },
+  {
+    "title": "Babes",
+    "month": "MAY",
+    "openingDate": "17",
+    "productionCompany": "Neon/FilmNation Entertainment",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Babes.jpg"
+  },
+  {
+    "title": "You Can't Run Forever",
+    "month": "MAY",
+    "openingDate": "17",
+    "productionCompany": "Lionsgate/Voltage Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": null
+  },
+  {
+    "title": "The American",
+    "month": "MAY",
+    "openingDate": "17",
+    "productionCompany": "Vertical/Anonymous Content",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_American.jpg"
+  },
+  {
+    "title": "Darkness of Man",
+    "month": "MAY",
+    "openingDate": "21",
+    "productionCompany": "Saban Films",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Darkness_of_Man.jpg"
+  },
+  {
+    "title": "Dead Wrong",
+    "month": "MAY",
+    "openingDate": "21",
+    "productionCompany": "Mill Creek Entertainment",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Dead_Wrong.jpg"
+  },
+  {
+    "title": "The Garfield Movie",
+    "month": "MAY",
+    "openingDate": "24",
+    "productionCompany": "Columbia Pictures/Alcon Entertainment/Prime Focus/One Cool Group/Wayfarer Studios/Stage 6 Films",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Garfield_Movie.jpg"
+  },
+  {
+    "title": "Furiosa: A Mad Max Saga",
+    "month": "MAY",
+    "openingDate": "24",
+    "productionCompany": "Warner Bros. Pictures/Kennedy Miller Mitchell",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Furiosa_A_Mad_Max_Saga.jpg"
+  },
+  {
+    "title": "Atlas",
+    "month": "MAY",
+    "openingDate": "24",
+    "productionCompany": "Netflix/Nuyorican Productions/Berlanti-Schechter Films",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Atlas.jpg"
+  },
+  {
+    "title": "Hit Man",
+    "month": "MAY",
+    "openingDate": "24",
+    "productionCompany": "Netflix/Aggregate Films/AGC Studios",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Action",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Hit_Man.jpg"
+  },
+  {
+    "title": "Sight",
+    "month": "MAY",
+    "openingDate": "24",
+    "productionCompany": "Angel Studios",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Sight.jpg"
+  },
+  {
+    "title": "The Keeper",
+    "month": "MAY",
+    "openingDate": "24",
+    "productionCompany": "Lama Entertainment",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "The_Keeper.jpg"
+  },
+  {
+    "title": "Kidnapped",
+    "month": "MAY",
+    "openingDate": "24",
+    "productionCompany": "IBC Movie",
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Kidnapped.jpg"
+  },
+  {
+    "title": "The Legend of Catclaws Mountain",
+    "month": "MAY",
+    "openingDate": "28",
+    "productionCompany": "Lionsgate Home Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Legend_of_Catclaws_Mountain.jpg"
+  },
+  {
+    "title": "Young Woman and the Sea",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Walt Disney Pictures/Jerry Bruckheimer Films",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Young_Woman_and_the_Sea.jpg"
+  },
+  {
+    "title": "Ezra",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Bleecker Street/Wayfarer Studios",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Ezra.jpg"
+  },
+  {
+    "title": "Summer Camp",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Roadside Attractions",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Summer_Camp.jpg"
+  },
+  {
+    "title": "The Young Wife",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Republic Pictures/FilmNation Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Young_Wife.jpg"
+  },
+  {
+    "title": "The Great Lillian Hall",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "HBO Films/Max",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Great_Lillian_Hall.jpg"
+  },
+  {
+    "title": "Shadow Land",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Paramount Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Shadow_Land.jpg"
+  },
+  {
+    "title": "Backspot",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "XYZ Films",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Backspot.jpg"
+  },
+  {
+    "title": "What You Wish For",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Magnolia Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "What_You_Wish_For.jpg"
+  },
+  {
+    "title": "Protocol-7",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Abramorama",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Protocol-7.jpg"
+  },
+  {
+    "title": "Deer Camp '86",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Panoramic Pictures",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Comedy"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "In a Violent Nature",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Shudder/IFC Films",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "In_a_Violent_Nature.jpg"
+  },
+  {
+    "title": "Haikyu!! The Dumpster Battle",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Toho",
+    "genres": [
+      "Drama",
+      "Anime",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Jim Henson: Idea Man",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Disney+",
+    "genres": [
+      "Documentary",
+      "Biography"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Jim_Henson_Idea_Man.jpg"
+  },
+  {
+    "title": "Robot Dreams",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Wild Bunch",
+    "genres": [
+      "Kids & Family",
+      "Drama",
+      "Music",
+      "Animation"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Robot_Dreams.jpg"
+  },
+  {
+    "title": "The Dead Don't Hurt",
+    "month": "MAY",
+    "openingDate": "31",
+    "productionCompany": "Talipot Studio/Recorded Picture Company",
+    "genres": [
+      "Western",
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": null
+  },
+  {
+    "title": "Boneyard",
+    "month": "JUNE",
+    "openingDate": "5",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Boneyard.jpg"
+  },
+  {
+    "title": "Am I OK?",
+    "month": "JUNE",
+    "openingDate": "6",
+    "productionCompany": "Max/Warner Bros. Pictures/Gloria Sanchez Productions",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Am_I_OK.jpg"
+  },
+  {
+    "title": "Bad Boys: Ride or Die",
+    "month": "JUNE",
+    "openingDate": "7",
+    "productionCompany": "Columbia Pictures/Jerry Bruckheimer Films/Westbrook Studios/TSG Entertainment",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Bad_Boys_Ride_or_Die.jpg"
+  },
+  {
+    "title": "The Watchers",
+    "month": "JUNE",
+    "openingDate": "7",
+    "productionCompany": "Warner Bros. Pictures/New Line Cinema/Blinding Edge Pictures",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Watchers.jpg"
+  },
+  {
+    "title": "Tuesday",
+    "month": "JUNE",
+    "openingDate": "7",
+    "productionCompany": "A24/BBC Film/BFI/Cinereach",
+    "genres": [
+      "Sci-Fi",
+      "Fantasy",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Tuesday.jpg"
+  },
+  {
+    "title": "Longing",
+    "month": "JUNE",
+    "openingDate": "7",
+    "productionCompany": "Lionsgate/Scythia Films",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Longing.jpg"
+  },
+  {
+    "title": "Late Bloomers",
+    "month": "JUNE",
+    "openingDate": "7",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Late_Bloomers.jpg"
+  },
+  {
+    "title": "Trim Season",
+    "month": "JUNE",
+    "openingDate": "7",
+    "productionCompany": "Blue Harbor Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Trim_Season.jpg"
+  },
+  {
+    "title": "Life After Fighting",
+    "month": "JUNE",
+    "openingDate": "7",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Life_After_Fighting.jpg"
+  },
+  {
+    "title": "Mysteries of the Terracotta Warriors",
+    "month": "JUNE",
+    "openingDate": "12",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Mysteries_of_the_Terracotta_Warriors.jpg"
+  },
+  {
+    "title": "Killer of Men",
+    "month": "JUNE",
+    "openingDate": "11",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Killer_of_Men.jpg"
+  },
+  {
+    "title": "Inside Out 2",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Walt Disney Pictures/Pixar Animation Studios",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Inside_Out_2.jpg"
+  },
+  {
+    "title": "Ultraman: Rising",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Netflix/Netflix Animation/Tsuburaya Productions",
+    "genres": [
+      "Kids & Family",
+      "Adventure",
+      "Action",
+      "Sci-Fi",
+      "Fantasy",
+      "Animation",
+      "Anime"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Ultraman_Rising.jpg"
+  },
+  {
+    "title": "Reverse the Curse",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Tiger Stripes",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Ghost Grrrl Pictures",
+    "genres": [
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Tiger_Stripes.jpg"
+  },
+  {
+    "title": "Treasure",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Bleecked Street/Alamode Film",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Treasure.jpg"
+  },
+  {
+    "title": "The Present",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Gravitas Ventures/AGC Studios",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "The_Present.jpg"
+  },
+  {
+    "title": "Ghostlight",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "IFC Films",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Ghostlight.jpg"
+  },
+  {
+    "title": "Fresh Kills",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Fresh_Kills.jpg"
+  },
+  {
+    "title": "Ride",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Well Go USA Entertainment",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Ride.jpg"
+  },
+  {
+    "title": "Latency",
+    "month": "JUNE",
+    "openingDate": "14",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Latency.jpg"
+  },
+  {
+    "title": "I Am: Celine Dion",
+    "month": "JUNE",
+    "openingDate": "17",
+    "productionCompany": "Amazon MGM Studios",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "I_Am_Celine_Dion.jpg"
+  },
+  {
+    "title": "Outstanding: A Comedy Revolution",
+    "month": "JUNE",
+    "openingDate": "18",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Documentary",
+      "LGBTQ+",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Outstanding_A_Comedy_Revolution.jpg"
+  },
+  {
+    "title": "Black Barbie: A Documentary",
+    "month": "JUNE",
+    "openingDate": "19",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Documentary"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Black_Barbie_A_Documentary.jpg"
+  },
+  {
+    "title": "The Convert",
+    "month": "JUNE",
+    "openingDate": "20",
+    "productionCompany": "Jump Film & Television",
+    "genres": [
+      "Drama",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Convert.jpg"
+  },
+  {
+    "title": "The Bikeriders",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Focus Features/Regency Enterprises",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Crime",
+    "posterFilename": "The_Bikeriders.jpg"
+  },
+  {
+    "title": "Kinds of Kindness",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Searchlight Pictures/Film4/Element Pictures/TSG Entertainment",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Kinds_of_Kindness.jpg"
+  },
+  {
+    "title": "The Exorcism",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Vertical/Miramax/Outerbanks Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Exorcism.jpg"
+  },
+  {
+    "title": "Fancy Dance",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Apple TV+/Significant Productions",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Fancy_Dance.jpg"
+  },
+  {
+    "title": "Trigger Warning",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Netflix/Thunder Road Films",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Trigger_Warning.jpg"
+  },
+  {
+    "title": "Janet Planet",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "A24/BBC Film",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Janet_Planet.jpg"
+  },
+  {
+    "title": "Blackwater Lane",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Lionsgate/Grindstone Entertainment Group",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Blackwater_Lane.jpg"
+  },
+  {
+    "title": "Thelma",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Magnolia Pictures",
+    "genres": [
+      "Comedy",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Thelma.jpg"
+  },
+  {
+    "title": "Chestnut",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Utopia",
+    "genres": [
+      "Drama",
+      "LGBTQ+"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Chestnut.jpg"
+  },
+  {
+    "title": "Green Border",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Kino Świat",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Green_Border.jpg"
+  },
+  {
+    "title": "She Rises Up",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Sky Films",
+    "genres": [
+      "Documentary"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "She_Rises_Up.jpg"
+  },
+  {
+    "title": "Agent Recon",
+    "month": "JUNE",
+    "openingDate": "21",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Agent_Recon.jpg"
+  },
+  {
+    "title": "Blue Lock The Movie",
+    "month": "JUNE",
+    "openingDate": "24",
+    "productionCompany": "Eight Bit",
+    "genres": [
+      "Drama",
+      "Anime",
+      "Comedy",
+      "Sports"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Blue_Lock_The_Movie.jpg"
+  },
+  {
+    "title": "A Quiet Place: Day One",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Paramount Pictures/Platinum Dunes/Sunday Night Productions",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "A_Quiet_Place_Day_One.jpg"
+  },
+  {
+    "title": "Horizon: An American Saga – Chapter 1",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Warner Bros. Pictures/New Line Cinema",
+    "genres": [
+      "Western",
+      "History",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Horizon_An_American_Saga_–_Chapter_1.jpg"
+  },
+  {
+    "title": "A Family Affair",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Netflix/Roth/Kirschenbaum Films",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "A_Family_Affair.jpg"
+  },
+  {
+    "title": "Reunion",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Republic Pictures/Spyglass Media Group/Lionsgate",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Reunion.jpg"
+  },
+  {
+    "title": "Daddio",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Sony Pictures Classics",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Daddio.jpg"
+  },
+  {
+    "title": "Last Summer",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "SBS Productions",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Last_Summer.jpg"
+  },
+  {
+    "title": "A Sacrifice",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Vertical/Scott Free Productions",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "A_Sacrifice.jpg"
+  },
+  {
+    "title": "June Zero",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Cohen Media Group",
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "June_Zero.jpg"
+  },
+  {
+    "title": "Midas",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Entertainment Squad",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Midas.jpg"
+  },
+  {
+    "title": "Family Portrait",
+    "month": "JUNE",
+    "openingDate": "28",
+    "productionCompany": "Conjuring Productions / Insufficient Funds",
+    "genres": [
+      "Holiday",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Family_Portrait.jpg"
+  },
+  {
+    "title": "Little Deaths",
+    "month": "JULY",
+    "openingDate": "2",
+    "productionCompany": "Entertainment Squad",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Little_Deaths.jpg"
+  },
+  {
+    "title": "Despicable Me 4",
+    "month": "JULY",
+    "openingDate": "3",
+    "productionCompany": "Universal Pictures/Illumination",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Despicable_Me_4.jpg"
+  },
+  {
+    "title": "Beverly Hills Cop: Axel F",
+    "month": "JULY",
+    "openingDate": "3",
+    "productionCompany": "Netflix/Don Simpson/Jerry Bruckheimer Films",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Beverly_Hills_Cop_Axel_F.jpg"
+  },
+  {
+    "title": "The Secret Art of Human Flight",
+    "month": "JULY",
+    "openingDate": "3",
+    "productionCompany": "Level 33 Entertainment",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "The_Secret_Art_of_Human_Flight.jpg"
+  },
+  {
+    "title": "Sound of Hope: The Story of Possum Trot",
+    "month": "JULY",
+    "openingDate": "4",
+    "productionCompany": "Angel Studios/DailyWire+",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Sound_of_Hope_The_Story_of_Possum_Trot.jpg"
+  },
+  {
+    "title": "Space Cadet",
+    "month": "JULY",
+    "openingDate": "4",
+    "productionCompany": "Amazon MGM Studios",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Space_Cadet.jpg"
+  },
+  {
+    "title": "MaXXXine",
+    "month": "JULY",
+    "openingDate": "5",
+    "productionCompany": "A24/Access Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "MaXXXine.jpg"
+  },
+  {
+    "title": "Mother, Couch",
+    "month": "JULY",
+    "openingDate": "5",
+    "productionCompany": "Film Movement / Memory / Lyrical Media / Film i Väst",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Murder Company",
+    "month": "JULY",
+    "openingDate": "5",
+    "productionCompany": "Maverick Entertainment Group/ Complex Corp",
+    "genres": [
+      "War",
+      "History",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Murder_Company.jpg"
+  },
+  {
+    "title": "The Real Bros of Simi Valley: High School Reunion",
+    "month": "JULY",
+    "openingDate": "5",
+    "productionCompany": "Roku",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Real_Bros_of_Simi_Valley_High_School_Reunion.jpg"
+  },
+  {
+    "title": "Dead Whisper",
+    "month": "JULY",
+    "openingDate": "5",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Dead_Whisper.jpg"
+  },
+  {
+    "title": "Exposure",
+    "month": "JULY",
+    "openingDate": "9",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Exposure.jpg"
+  },
+  {
+    "title": "Angels Fallen: Warriors of Peace",
+    "month": "JULY",
+    "openingDate": "9",
+    "productionCompany": "Uncork'd Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Angels_Fallen_Warriors_of_Peace.jpg"
+  },
+  {
+    "title": "Divorce in the Black",
+    "month": "JULY",
+    "openingDate": "11",
+    "productionCompany": "Amazon Prime Video/Tyler Perry Studios",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Divorce_in_the_Black.jpg"
+  },
+  {
+    "title": "Fly Me to the Moon",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "Columbia Pictures/Apple TV+",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Fly_Me_to_the_Moon.jpg"
+  },
+  {
+    "title": "Longlegs",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "Neon/Saturn Films",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Longlegs.jpg"
+  },
+  {
+    "title": "Sing Sing",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "A24/Black Bear Pictures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Sing_Sing.jpg"
+  },
+  {
+    "title": "Dandelion",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "IFC Films",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Dandelion.jpg"
+  },
+  {
+    "title": "Touch",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "Focus Features/RVK Studios",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Touch.jpg"
+  },
+  {
+    "title": "The Inheritance",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Inheritance.jpg"
+  },
+  {
+    "title": "Descendants: The Rise of Red",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "Disney+",
+    "genres": [
+      "Kids & Family",
+      "Musical",
+      "Fantasy",
+      "Adventure"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Descendants_The_Rise_of_Red.jpg"
+  },
+  {
+    "title": "National Anthem",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "Variance Films",
+    "genres": [
+      "Drama",
+      "LGBTQ+",
+      "Romance",
+      "Western"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "National_Anthem.jpg"
+  },
+  {
+    "title": "Because We're Family",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "Buffalo 8 Entertainment",
+    "genres": [
+      "Holiday",
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "The Commandant’s Shadow",
+    "month": "JULY",
+    "openingDate": "12",
+    "productionCompany": "Warner Bros. Pictures",
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "The_Commandant’s_Shadow.jpg"
+  },
+  {
+    "title": "My Spy: The Eternal City",
+    "month": "JULY",
+    "openingDate": "18",
+    "productionCompany": "Amazon MGM Studios/STXfilms/MWM Studios",
+    "genres": [
+      "Comedy",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "My_Spy_The_Eternal_City.jpg"
+  },
+  {
+    "title": "Skywalkers: A Love Story",
+    "month": "JULY",
+    "openingDate": "18",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Documentary",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Skywalkers_A_Love_Story.jpg"
+  },
+  {
+    "title": "Twisters",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Universal Pictures/Warner Bros. Pictures/Amblin Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Twisters.jpg"
+  },
+  {
+    "title": "Find Me Falling",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Find_Me_Falling.jpg"
+  },
+  {
+    "title": "Clear Cut",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Lionsgate/Grindstone Entertainment Group",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Clear_Cut.jpg"
+  },
+  {
+    "title": "Widow Clicquot",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Widow_Clicquot.jpg"
+  },
+  {
+    "title": "Clawfoot",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Clawfoot.jpg"
+  },
+  {
+    "title": "Hollywoodgate",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Rolling Narratives/Jouzour Film Production/Cottage M/Raefilm Studios",
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Hollywoodgate.jpg"
+  },
+  {
+    "title": "The Abandon",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Abandon.jpg"
+  },
+  {
+    "title": "Oddity",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "IFC Films/Shudder",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Oddity.jpg"
+  },
+  {
+    "title": "Spread",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Tubi",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Spread.jpg"
+  },
+  {
+    "title": "Crossing",
+    "month": "JULY",
+    "openingDate": "19",
+    "productionCompany": "Tri Art Film",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Crossing.jpg"
+  },
+  {
+    "title": "Lumina",
+    "month": "JULY",
+    "openingDate": "20",
+    "productionCompany": "Goldove / Luminamovie LLC",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Lumina.jpg"
+  },
+  {
+    "title": "The Good Half",
+    "month": "JULY",
+    "openingDate": "23",
+    "productionCompany": "Utopia",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Good_Half.jpg"
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "month": "JULY",
+    "openingDate": "26",
+    "productionCompany": "Marvel Studios/Maximum Effort/21 Laps Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Deadpool_&_Wolverine.jpg"
+  },
+  {
+    "title": "The Fabulous Four",
+    "month": "JULY",
+    "openingDate": "26",
+    "productionCompany": "Bleecker Street",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Fabulous_Four.jpg"
+  },
+  {
+    "title": "Mothers' Instinct",
+    "month": "JULY",
+    "openingDate": "26",
+    "productionCompany": "Neon/Freckle Films/Mosaic",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": null
+  },
+  {
+    "title": "Dìdi",
+    "month": "JULY",
+    "openingDate": "26",
+    "productionCompany": "Focus Features/Maiden Voyage Pictures",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Dìdi.jpg"
+  },
+  {
+    "title": "The Girl in the Pool",
+    "month": "JULY",
+    "openingDate": "26",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Girl_in_the_Pool.jpg"
+  },
+  {
+    "title": "Dead Sea",
+    "month": "JULY",
+    "openingDate": "26",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Dead_Sea.jpg"
+  },
+  {
+    "title": "The Duel",
+    "month": "JULY",
+    "openingDate": "31",
+    "productionCompany": "Lionsgate/Grindstone Entertainment Group",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Duel.jpg"
+  },
+  {
+    "title": "Trap",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Warner Bros. Pictures / Blinding Edge Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Trap.jpg"
+  },
+  {
+    "title": "Harold and the Purple Crayon",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Columbia Pictures/Davis Entertainment/TSG Entertainment",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Harold_and_the_Purple_Crayon.jpg"
+  },
+  {
+    "title": "The Instigators",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Apple TV+/Artists Equity/Studio 8",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Instigators.jpg"
+  },
+  {
+    "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Netflix/Nickelodeon Movies/United Plankton Pictures",
+    "genres": [
+      "Kids & Family",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Saving_Bikini_Bottom_The_Sandy_Cheeks_Movie.jpg"
+  },
+  {
+    "title": "The Firing Squad",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Epoch Studios / RiverRain Productions",
+    "genres": [
+      "Drama",
+      "Biography",
+      "Spirituality"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Firing_Squad.jpg"
+  },
+  {
+    "title": "Detained",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Detained.jpg"
+  },
+  {
+    "title": "Peak Season",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Entertainment Squad",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Kneecap",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Curzon Film",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Biography"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Kneecap.jpg"
+  },
+  {
+    "title": "AMFAD All My Friends Are Dead",
+    "month": "AUGUST",
+    "openingDate": "2",
+    "productionCompany": "Cineverse",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "AMFAD_All_My_Friends_Are_Dead.jpg"
+  },
+  {
+    "title": "Trust in Love",
+    "month": "AUGUST",
+    "openingDate": "5",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Trust_in_Love.jpg"
+  },
+  {
+    "title": "One Fast Move",
+    "month": "AUGUST",
+    "openingDate": "8",
+    "productionCompany": "Amazon MGM Studios",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "One_Fast_Move.jpg"
+  },
+  {
+    "title": "It Ends with Us",
+    "month": "AUGUST",
+    "openingDate": "9",
+    "productionCompany": "Columbia Pictures/Wayfarer Studios/TSG Entertainment",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "It_Ends_with_Us.jpg"
+  },
+  {
+    "title": "Borderlands",
+    "month": "AUGUST",
+    "openingDate": "9",
+    "productionCompany": "Lionsgate/2K/Gearbox Studios/Arad Productions/Summit Entertainment",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Borderlands.jpg"
+  },
+  {
+    "title": "Cuckoo",
+    "month": "AUGUST",
+    "openingDate": "9",
+    "productionCompany": "Neon",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Cuckoo.jpg"
+  },
+  {
+    "title": "Girl You Know It's True",
+    "month": "AUGUST",
+    "openingDate": "9",
+    "productionCompany": "Vertical/Mediawan/Voltage Pictures",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": null
+  },
+  {
+    "title": "Good One",
+    "month": "AUGUST",
+    "openingDate": "9",
+    "productionCompany": "Metrograph Pictures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Good_One.jpg"
+  },
+  {
+    "title": "Duchess",
+    "month": "AUGUST",
+    "openingDate": "9",
+    "productionCompany": "Saban Films",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Duchess.jpg"
+  },
+  {
+    "title": "Watchmen Chapter I",
+    "month": "AUGUST",
+    "openingDate": "13",
+    "productionCompany": "Warner Bros. Pictures/Paramount Pictures/DC Entertainment",
+    "genres": [
+      "Drama",
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller",
+      "Animation"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Watchmen_Chapter_I.jpg"
+  },
+  {
+    "title": "Jackpot!",
+    "month": "AUGUST",
+    "openingDate": "15",
+    "productionCompany": "Amazon MGM Studios/Roth/Kirschenbaum Films",
+    "genres": [
+      "Comedy",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": null
+  },
+  {
+    "title": "Alien: Romulus",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "20th Century Studios/Scott Free Productions/Brandywine Productions/TSG Entertainment",
+    "genres": [
+      "Sci-Fi",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Alien_Romulus.jpg"
+  },
+  {
+    "title": "The Union",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "Netflix/Municipal Pictures",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Union.jpg"
+  },
+  {
+    "title": "The Deliverance",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Deliverance.jpg"
+  },
+  {
+    "title": "Rob Peace",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "Republic Pictures/Los Angeles Media Fund/Participant/25 Stories",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Rob_Peace.jpg"
+  },
+  {
+    "title": "Skincare",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "IFC Films",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Skincare.jpg"
+  },
+  {
+    "title": "Gunner",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "Highland Film Group",
+    "genres": [
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Gunner.jpg"
+  },
+  {
+    "title": "Close To You",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "Vertigo Releasing",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Close_To_You.jpg"
+  },
+  {
+    "title": "Crescent City",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "Lionsgate/Grindstone Entertainment Group",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Crescent_City.jpg"
+  },
+  {
+    "title": "Ryan's World the Movie: Titan Universe Adventure",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "Falling Forward Films /PocketWatch",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Mountains",
+    "month": "AUGUST",
+    "openingDate": "16",
+    "productionCompany": "Music Box Films",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Mountains.jpg"
+  },
+  {
+    "title": "The Clean Up Crew",
+    "month": "AUGUST",
+    "openingDate": "20",
+    "productionCompany": "Saban Films",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Clean_Up_Crew.jpg"
+  },
+  {
+    "title": "Emilia Pérez",
+    "month": "AUGUST",
+    "openingDate": "21",
+    "productionCompany": "Why Not Productions/Pathé/Netflix",
+    "genres": [
+      "Musical",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Crime",
+    "posterFilename": "Emilia_Pérez.jpg"
+  },
+  {
+    "title": "Stream",
+    "month": "AUGUST",
+    "openingDate": "21",
+    "productionCompany": "Iconic Events Releasing/ Fuzz on the Lens Productions",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Stream.jpg"
+  },
+  {
+    "title": "The Crow",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Lionsgate/Davis Films/30West/FilmNation Entertainment",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Crime"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "The_Crow.jpg"
+  },
+  {
+    "title": "Blink Twice",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Metro-Goldwyn-Mayer/Free Association",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Blink_Twice.jpg"
+  },
+  {
+    "title": "The Killer",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Peacock/Universal Pictures/Atlas Entertainment",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama",
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Killer.jpg"
+  },
+  {
+    "title": "The Supremes at Earl's All-You-Can-Eat",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Hulu/Searchlight Pictures/Temple Hill Entertainment",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Greedy People",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Greedy_People.jpg"
+  },
+  {
+    "title": "Between the Temples",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Sony Pictures Classics/Ley Line Entertainment",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Between_the_Temples.jpg"
+  },
+  {
+    "title": "Incoming",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Incoming.jpg"
+  },
+  {
+    "title": "The Forge",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Affirm Films/Kendrick Brothers/Provident Films",
+    "genres": [
+      "Drama",
+      "Spirituality"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Forge.jpg"
+  },
+  {
+    "title": "Strange Darling",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Magenta Light Studios /Miramax",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Strange_Darling.jpg"
+  },
+  {
+    "title": "Catching Dust",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Catching_Dust.jpg"
+  },
+  {
+    "title": "Summer of Violence",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Summer_of_Violence.jpg"
+  },
+  {
+    "title": "The Becomers",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Dark Star Pictures",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Becomers.jpg"
+  },
+  {
+    "title": "Place of Bones",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "Highland Film Group / Gold Rush Entertainment / Latigo Films",
+    "genres": [
+      "Horror",
+      "Western"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Place_of_Bones.jpg"
+  },
+  {
+    "title": "Close Your Eyes",
+    "month": "AUGUST",
+    "openingDate": "23",
+    "productionCompany": "La Mirada del Adiós",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Close_Your_Eyes.jpg"
+  },
+  {
+    "title": "The Exorcism of Saint Patrick",
+    "month": "AUGUST",
+    "openingDate": "27",
+    "productionCompany": "Cranked Up Films",
+    "genres": [
+      "Horror",
+      "LGBTQ+"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Exorcism_of_Saint_Patrick.jpg"
+  },
+  {
+    "title": "Afraid",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "Columbia Pictures/Blumhouse Productions",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Afraid.jpg"
+  },
+  {
+    "title": "1992",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "Lionsgate/Death Row Pictures",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "1992.jpg"
+  },
+  {
+    "title": "Slingshot",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "Bleecker Street",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Slingshot.jpg"
+  },
+  {
+    "title": "The Wasp",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "Shout! Studios",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Wasp.jpg"
+  },
+  {
+    "title": "Reagan",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "ShowBiz Direct / MJM Entertainment",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Reagan.jpg"
+  },
+  {
+    "title": "First Shift",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Crime",
+    "posterFilename": "First_Shift.jpg"
+  },
+  {
+    "title": "You Gotta Believe",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "Well Go USA Entertainment",
+    "genres": [
+      "Kids & Family",
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "You_Gotta_Believe.jpg"
+  },
+  {
+    "title": "City of Dreams",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "Roadside Attractions",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "City_of_Dreams.jpg"
+  },
+  {
+    "title": "Tokyo Cowboy",
+    "month": "AUGUST",
+    "openingDate": "30",
+    "productionCompany": "Purdie Distribution",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Tokyo_Cowboy.jpg"
+  },
+  {
+    "title": "Wolves Against the World",
+    "month": "SEPTEMBER",
+    "openingDate": "3",
+    "productionCompany": "Good Deed Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Wolves_Against_the_World.jpg"
+  },
+  {
+    "title": "Beetlejuice Beetlejuice",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "Warner Bros. Pictures/Plan B Entertainment/Tim Burton Productions/The Geffen Company",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Beetlejuice_Beetlejuice.jpg"
+  },
+  {
+    "title": "The Front Room",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "A24/2AM",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Front_Room.jpg"
+  },
+  {
+    "title": "His Three Daughters",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "Netflix/Tango Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "His_Three_Daughters.jpg"
+  },
+  {
+    "title": "Rebel Ridge",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Rebel_Ridge.jpg"
+  },
+  {
+    "title": "The Goldman Case",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "Apple TV+",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Crime",
+    "posterFilename": "The_Goldman_Case.jpg"
+  },
+  {
+    "title": "Continue",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "Lionsgate/Grindstone Entertainment Group",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Continue.jpg"
+  },
+  {
+    "title": "A New York Story",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "A_New_York_Story.jpg"
+  },
+  {
+    "title": "The Thicket",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "Samuel Goldwyn Films/Tubi Films",
+    "genres": [
+      "Western",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Thicket.jpg"
+  },
+  {
+    "title": "I'll Be Right There",
+    "month": "SEPTEMBER",
+    "openingDate": "6",
+    "productionCompany": "Brainstorm Media",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Dead Teenagers",
+    "month": "SEPTEMBER",
+    "openingDate": "10",
+    "productionCompany": "Good Deed Entertainment",
+    "genres": [
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Dead_Teenagers.jpg"
+  },
+  {
+    "title": "Speak No Evil",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Universal Pictures/Blumhouse Productions",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Speak_No_Evil.jpg"
+  },
+  {
+    "title": "The Killer's Game",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": null
+  },
+  {
+    "title": "My Old Ass",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Metro-Goldwyn-Mayer/Indian Paintbrush/LuckyChap Entertainment",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Drama"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "My_Old_Ass.jpg"
+  },
+  {
+    "title": "Uglies",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Netflix/Davis Entertainment/Anonymous Content",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Action",
+      "Drama"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Uglies.jpg"
+  },
+  {
+    "title": "Winner",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Vertical/Big Beach",
+    "genres": [
+      "Biography",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Winner.jpg"
+  },
+  {
+    "title": "Here After",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Paramount Pictures",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Here_After.jpg"
+  },
+  {
+    "title": "The 4:30 Movie",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Saban Films/SMODCO",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_430_Movie.jpg"
+  },
+  {
+    "title": "The Critic",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Critic.jpg"
+  },
+  {
+    "title": "Girls Will Be Girls",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Amazon Prime Video",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Girls_Will_Be_Girls.jpg"
+  },
+  {
+    "title": "Subservience",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "XYZ Films/Millennium Media",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Subservience.jpg"
+  },
+  {
+    "title": "Booger",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Dark Sky Films/Neon Heart Productions/Ley Line Entertainment",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Fantasy"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Booger.jpg"
+  },
+  {
+    "title": "The Waterboyz",
+    "month": "SEPTEMBER",
+    "openingDate": "13",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Crime",
+    "posterFilename": "The_Waterboyz.jpg"
+  },
+  {
+    "title": "Transformers One",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "Paramount Pictures/Hasbro Entertainment/New Republic Pictures/Di Bonaventura Pictures",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Fantasy",
+      "Animation"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Transformers_One.jpg"
+  },
+  {
+    "title": "Wolfs",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "Apple TV+/Plan B Entertainment/Smokehouse Pictures",
+    "genres": [
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Wolfs.jpg"
+  },
+  {
+    "title": "Never Let Go",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "Lionsgate/21 Laps Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Never_Let_Go.jpg"
+  },
+  {
+    "title": "The Substance",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "Mubi/Working Title Films",
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Substance.jpg"
+  },
+  {
+    "title": "A Different Man",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "A24/Killer Films",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "A_Different_Man.jpg"
+  },
+  {
+    "title": "Bagman",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "Lionsgate/Temple Hill Entertainment",
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Bagman.jpg"
+  },
+  {
+    "title": "Omni Loop",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "Magnolia Pictures/2AM/Killer Films",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Omni_Loop.jpg"
+  },
+  {
+    "title": "The Featherweight",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "mTuckman Media /Appian Way Productions",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sports"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Featherweight.jpg"
+  },
+  {
+    "title": "In the Summers",
+    "month": "SEPTEMBER",
+    "openingDate": "20",
+    "productionCompany": "Music Box Films",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "In_the_Summers.jpg"
+  },
+  {
+    "title": "All We Imagine as Light",
+    "month": "SEPTEMBER",
+    "openingDate": "21",
+    "productionCompany": "Petit Chaos",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "All_We_Imagine_as_Light.jpg"
+  },
+  {
+    "title": "Kill 'Em All 2",
+    "month": "SEPTEMBER",
+    "openingDate": "24",
+    "productionCompany": "Destination Films",
+    "genres": [
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": null
+  },
+  {
+    "title": "Paradox Effect",
+    "month": "SEPTEMBER",
+    "openingDate": "24",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Paradox_Effect.jpg"
+  },
+  {
+    "title": "Killer Heat",
+    "month": "SEPTEMBER",
+    "openingDate": "26",
+    "productionCompany": "Amazon Prime Video",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Romance"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Killer_Heat.jpg"
+  },
+  {
+    "title": "Empire Waist",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Wayfarer Studios",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Empire_Waist.jpg"
+  },
+  {
+    "title": "Lee",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "StudioCanal",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "War"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": null
+  },
+  {
+    "title": "Notice to Quit",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Whiskey Creek",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Notice_to_Quit.jpg"
+  },
+  {
+    "title": "The Wild Robot",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Universal Pictures/DreamWorks Animation",
+    "genres": [
+      "Kids & Family",
+      "Adventure",
+      "Animation"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": "The_Wild_Robot.jpg"
+  },
+  {
+    "title": "Saturday Night",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Columbia Pictures/TSG Entertainment",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Saturday_Night.jpg"
+  },
+  {
+    "title": "Megalopolis",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Lionsgate/American Zoetrope",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Megalopolis.jpg"
+  },
+  {
+    "title": "Apartment 7A",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Paramount+/Paramount Pictures/Paramount Players/Platinum Dunes/Sunday Night Productions",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Apartment_7A.jpg"
+  },
+  {
+    "title": "Rez Ball",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Netflix/SpringHill Company/Chernin Entertainment/Lake Ellyn Entertainment",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Rez_Ball.jpg"
+  },
+  {
+    "title": "The Curse of the Necklace",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Warner Bros. Pictures",
+    "genres": [
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Curse_of_the_Necklace.jpg"
+  },
+  {
+    "title": "Azrael",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "IFC Films/Shudder/Republic Pictures",
+    "genres": [
+      "Action",
+      "Horror",
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Azrael.jpg"
+  },
+  {
+    "title": "Amber Alert",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Amber_Alert.jpg"
+  },
+  {
+    "title": "Abruptio",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Anchor Bay Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Abruptio.jpg"
+  },
+  {
+    "title": "She Taught Love",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Hulu/Andscape",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "She_Taught_Love.jpg"
+  },
+  {
+    "title": "Sleep",
+    "month": "SEPTEMBER",
+    "openingDate": "27",
+    "productionCompany": "Lotte Entertainment",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Horror",
+      "Comedy"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Sleep.jpg"
+  },
+  {
+    "title": "Another Happy Day",
+    "month": "OCTOBER",
+    "openingDate": "1",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Another_Happy_Day.jpg"
+  },
+  {
+    "title": "Crackcoon",
+    "month": "OCTOBER",
+    "openingDate": "1",
+    "productionCompany": "Cineverse",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Crackcoon.jpg"
+  },
+  {
+    "title": "Salem's Lot",
+    "month": "OCTOBER",
+    "openingDate": "3",
+    "productionCompany": "Max/New Line Cinema/Atomic Monster/Vertigo Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "House of Spoils",
+    "month": "OCTOBER",
+    "openingDate": "3",
+    "productionCompany": "Amazon MGM Studios/Blumhouse Productions/DivideConquer",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "House_of_Spoils.jpg"
+  },
+  {
+    "title": "Hold Your Breath",
+    "month": "OCTOBER",
+    "openingDate": "3",
+    "productionCompany": "Hulu/Searchlight Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "Joker: Folie à Deux",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "Warner Bros. Pictures",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Musical"
+    ],
+    "primaryGenre": "Crime",
+    "posterFilename": "Joker_Folie_à_Deux.jpg"
+  },
+  {
+    "title": "The Outrun",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "StudioCanal",
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Outrun.jpg"
+  },
+  {
+    "title": "White Bird",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "Lionsgate/Participant/Kingdom Story Company/Mandeville Films",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "White_Bird.jpg"
+  },
+  {
+    "title": "It's What's Inside",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Comedy"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": null
+  },
+  {
+    "title": "Blink",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "National Geographic/Disney",
+    "genres": [
+      "Documentary"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Blink.jpg"
+  },
+  {
+    "title": "Monster Summer",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "Pastime Pictures",
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Monster_Summer.jpg"
+  },
+  {
+    "title": "Things Will Be Different",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "Magnet Releasing",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Things_Will_Be_Different.jpg"
+  },
+  {
+    "title": "The Forest Hills",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "My Way Pictures / Dreznick Goldberg Production / Digital Thunderdome",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Forest_Hills.jpg"
+  },
+  {
+    "title": "The Problem with People",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Little Bites",
+    "month": "OCTOBER",
+    "openingDate": "4",
+    "productionCompany": "RLJE Films/Shudder",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "Hellboy: The Crooked Man",
+    "month": "OCTOBER",
+    "openingDate": "7",
+    "productionCompany": "Ketchup Entertainment/Millennium Media/Dark Horse Entertainment",
+    "genres": [
+      "Action",
+      "Horror",
+      "Fantasy"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Hellboy_The_Crooked_Man.jpg"
+  },
+  {
+    "title": "Brothers",
+    "month": "OCTOBER",
+    "openingDate": "10",
+    "productionCompany": "Amazon MGM Studios/Legendary Pictures",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Brothers.jpg"
+  },
+  {
+    "title": "Caddo Lake",
+    "month": "OCTOBER",
+    "openingDate": "10",
+    "productionCompany": "Max/New Line Cinema/Blinding Edge Pictures",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Caddo_Lake.jpg"
+  },
+  {
+    "title": "Terrifier 3",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "Cineverse",
+    "genres": [
+      "Holiday",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Terrifier_3.jpg"
+  },
+  {
+    "title": "Piece by Piece",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "Focus Features/I Am Other/Tremolo Productions/The Lego Group",
+    "genres": [
+      "Kids & Family",
+      "Biography",
+      "Comedy",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Piece_by_Piece.jpg"
+  },
+  {
+    "title": "The Apprentice",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "Briarcliff Entertainment/Scythia Films/Tailored Films",
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Apprentice.jpg"
+  },
+  {
+    "title": "Lonely Planet",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Lonely_Planet.jpg"
+  },
+  {
+    "title": "The Silent Hour",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "Republic Pictures/AGC Studios",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "The_Silent_Hour.jpg"
+  },
+  {
+    "title": "Bad Genius",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Bad_Genius.jpg"
+  },
+  {
+    "title": "Seven Cemeteries",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Horror",
+      "Action"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Seven_Cemeteries.jpg"
+  },
+  {
+    "title": "The Man in the White Van",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "Relativity Media/Legion M/XYZ Films",
+    "genres": [
+      "Holiday",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Man_in_the_White_Van.jpg"
+  },
+  {
+    "title": "We Live in Time",
+    "month": "OCTOBER",
+    "openingDate": "11",
+    "productionCompany": "A24/SunnyMarch/Shoebox Films/StudioCanal",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "We_Live_in_Time.jpg"
+  },
+  {
+    "title": "9 Windows",
+    "month": "OCTOBER",
+    "openingDate": "15",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "9_Windows.jpg"
+  },
+  {
+    "title": "Memoir of a Snail",
+    "month": "OCTOVER",
+    "openingDate": "17",
+    "productionCompany": "Madman Entertainment",
+    "genres": [
+      "Comedy",
+      "Animation",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Memoir_of_a_Snail.jpg"
+  },
+  {
+    "title": "Smile 2",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Paramount Pictures/Temple Hill Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Smile_2.jpg"
+  },
+  {
+    "title": "Anora",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Neon/FilmNation Entertainment",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Anora.jpg"
+  },
+  {
+    "title": "Goodrich",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Ketchup Entertainment/Pascal Pictures",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Goodrich.jpg"
+  },
+  {
+    "title": "Woman of the Hour",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Netflix/AGC Studios/Vertigo Entertainment",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Woman_of_the_Hour.jpg"
+  },
+  {
+    "title": "The Line",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Utopia",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Line.jpg"
+  },
+  {
+    "title": "Kensuke's Kingdom",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Le Pacte",
+    "genres": [
+      "Kids & Family",
+      "Adventure",
+      "Animation"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": null
+  },
+  {
+    "title": "Bookworm",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Mister Smith Entertainment",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Kids & Family"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Bookworm.jpg"
+  },
+  {
+    "title": "Exhibiting Forgiveness",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Roadside Attractions",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Exhibiting_Forgiveness.jpg"
+  },
+  {
+    "title": "High Tide",
+    "month": "OCTOBER",
+    "openingDate": "18",
+    "productionCompany": "Strand Releasing/LD Entertainment",
+    "genres": [
+      "Drama",
+      "Romance",
+      "LGBTQ+"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "High_Tide.jpg"
+  },
+  {
+    "title": "To Fall in Love",
+    "month": "OCTOBER",
+    "openingDate": "22",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "To_Fall_in_Love.jpg"
+  },
+  {
+    "title": "Canary Black",
+    "month": "OCTOBER",
+    "openingDate": "24",
+    "productionCompany": "Amazon MGM Studios",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Canary_Black.jpg"
+  },
+  {
+    "title": "Venom: The Last Dance",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Columbia Pictures/Marvel Entertainment/Arad Productions/Pascal Pictures/Hardy Son & Baker/TSG Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Venom_The_Last_Dance.jpg"
+  },
+  {
+    "title": "Conclave",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Focus Features/FilmNation Entertainment/Indian Paintbrush",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Conclave.jpg"
+  },
+  {
+    "title": "Your Monster",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Horror",
+      "Musical"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Your_Monster.jpg"
+  },
+  {
+    "title": "Don't Move",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "Magpie",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Shout! Studios",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Magpie.jpg"
+  },
+  {
+    "title": "La cocina",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Willa",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "La_cocina.jpg"
+  },
+  {
+    "title": "Darla in Space",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Freestyle Releasing",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Darla_in_Space.jpg"
+  },
+  {
+    "title": "All You Need Is Blood",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Level 33 Entertainment",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "All_You_Need_Is_Blood.jpg"
+  },
+  {
+    "title": "1 Million Followers",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Vertical",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "1_Million_Followers.jpg"
+  },
+  {
+    "title": "Hangdog",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Good Deed Entertainment",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Hangdog.jpg"
+  },
+  {
+    "title": "Let's Start a Cult",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "MPI Media Group",
+    "genres": [
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Dahomey",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Les Films du Losange",
+    "genres": [
+      "Documentary"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Dahomey.jpg"
+  },
+  {
+    "title": "Black Box Diaries",
+    "month": "OCTOBER",
+    "openingDate": "25",
+    "productionCompany": "Dogwoof/MTV Entertainment Studios",
+    "genres": [
+      "Documentary"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Black_Box_Diaries.jpg"
+  },
+  {
+    "title": "Amityville: Where the Echo Lives",
+    "month": "OCTOBER",
+    "openingDate": "29",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "Time Cut",
+    "month": "OCTOBER",
+    "openingDate": "30",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Time_Cut.jpg"
+  },
+  {
+    "title": "Flow",
+    "month": "OCTOBER",
+    "openingDate": "30",
+    "productionCompany": "Dream Well Studio/Sacrebleu Productions",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Kids & Family"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": "Flow.jpg"
+  },
+  {
+    "title": "Here",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "TriStar Pictures / Miramax / ImageMovers",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Here.jpg"
+  },
+  {
+    "title": "Juror #2",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "Warner Bros. Pictures/Gotham Group/Malpaso Productions",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": null
+  },
+  {
+    "title": "Blitz",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "Apple TV+/Regency Enterprises/Working Title Films",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Blitz.jpg"
+  },
+  {
+    "title": "A Real Pain",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "Searchlight Pictures/Topic Studios/Fruit Tree",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "A_Real_Pain.jpg"
+  },
+  {
+    "title": "Absolution",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "Samuel Goldwyn Films",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Absolution.jpg"
+  },
+  {
+    "title": "The Gutter",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "Magnolia Pictures/Village Roadshow Pictures",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Gutter.jpg"
+  },
+  {
+    "title": "The Graduates",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "The Future of Film Is Female",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Graduates.jpg"
+  },
+  {
+    "title": "The Eye of the Salamander",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "Freestyle Releasing",
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller",
+      "Adventure"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "The_Eye_of_the_Salamander.jpg"
+  },
+  {
+    "title": "Lost on a Mountain in Maine",
+    "month": "NOVEMBER",
+    "openingDate": "1",
+    "productionCompany": "Blue Fox Entertainment/Balboa Productions",
+    "genres": [
+      "Kids & Family",
+      "Adventure",
+      "Drama"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": "Lost_on_a_Mountain_in_Maine.jpg"
+  },
+  {
+    "title": "Small Things Like These",
+    "month": "NOVEMBER",
+    "openingDate": "4",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Small_Things_Like_These.jpg"
+  },
+  {
+    "title": "Meet Me Next Christmas",
+    "month": "NOVEMBER",
+    "openingDate": "6",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Romance",
+      "Holiday"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Meet_Me_Next_Christmas.jpg"
+  },
+  {
+    "title": "A Sudden Case of Christmas",
+    "month": "NOVEMBER",
+    "openingDate": "7",
+    "productionCompany": "Shout! Studios",
+    "genres": [
+      "Kids & Family",
+      "Holiday",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "A_Sudden_Case_of_Christmas.jpg"
+  },
+  {
+    "title": "Heretic",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "A24",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Heretic.jpg"
+  },
+  {
+    "title": "The Best Christmas Pageant Ever",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "Lionsgate/Kingdom Story Company",
+    "genres": [
+      "Kids & Family",
+      "Holiday",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Best_Christmas_Pageant_Ever.jpg"
+  },
+  {
+    "title": "The Piano Lesson",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Piano_Lesson.jpg"
+  },
+  {
+    "title": "Hippo",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "Kinematics",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Hippo.jpg"
+  },
+  {
+    "title": "Weekend in Taipei",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "EuropaCorp",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Weekend_in_Taipei.jpg"
+  },
+  {
+    "title": "Elevation",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "Vertical/Lyrical Media",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Elevation.jpg"
+  },
+  {
+    "title": "Christmas Eve in Miller's Point",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "IFC Films",
+    "genres": [
+      "Holiday",
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": null
+  },
+  {
+    "title": "Bird",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "Mubi/BBC Film/BFI/Access Entertainment",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Bird.jpg"
+  },
+  {
+    "title": "Love Bomb",
+    "month": "NOVEMBER",
+    "openingDate": "8",
+    "productionCompany": "Quiver Distribution",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Love_Bomb.jpg"
+  },
+  {
+    "title": "It's Coming",
+    "month": "NOVEMBER",
+    "openingDate": "12",
+    "productionCompany": "Early Autumn /Freestyle Digital Media",
+    "genres": [
+      "Documentary",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "Hot Frosty",
+    "month": "NOVEMBER",
+    "openingDate": "13",
+    "productionCompany": "Netflix/Muse Entertainment",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Fantasy",
+      "Holiday"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Hot_Frosty.jpg"
+  },
+  {
+    "title": "Red One",
+    "month": "NOVEMBER",
+    "openingDate": "15",
+    "productionCompany": "Metro-Goldwyn-Mayer/Seven Bucks Productions",
+    "genres": [
+      "Holiday",
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Red_One.jpg"
+  },
+  {
+    "title": "Daruma",
+    "month": "NOVEMBER",
+    "openingDate": "15",
+    "productionCompany": "Freestyle Digital Media",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Daruma.jpg"
+  },
+  {
+    "title": "Joy",
+    "month": "NOVEMBER",
+    "openingDate": "15",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Joy.jpg"
+  },
+  {
+    "title": "Breakup Season",
+    "month": "NOVEMBER",
+    "openingDate": "15",
+    "productionCompany": "Buffalo 8",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Holiday"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Breakup_Season.jpg"
+  },
+  {
+    "title": "Swap",
+    "month": "NOVEMBER",
+    "openingDate": "19",
+    "productionCompany": "Red Rabbit Pictures / Tru Diamond Entertainment",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Swap.jpg"
+  },
+  {
+    "title": "The Merry Gentlemen",
+    "month": "NOVEMBER",
+    "openingDate": "20",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Holiday",
+      "Comedy",
+      "Romance"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "The_Merry_Gentlemen.jpg"
+  },
+  {
+    "title": "Wicked",
+    "month": "NOVEMBER",
+    "openingDate": "22",
+    "productionCompany": "Universal Pictures/Marc Platt Productions",
+    "genres": [
+      "Kids & Family",
+      "Musical",
+      "Fantasy",
+      "Adventure"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Wicked.jpg"
+  },
+  {
+    "title": "Gladiator II",
+    "month": "NOVEMBER",
+    "openingDate": "22",
+    "productionCompany": "Paramount Pictures/Scott Free Productions/Lucy Fisher/Douglas Wick Productions",
+    "genres": [
+      "History",
+      "Drama",
+      "Adventure",
+      "Action"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Gladiator_II.jpg"
+  },
+  {
+    "title": "Spellbound",
+    "month": "NOVEMBER",
+    "openingDate": "22",
+    "productionCompany": "Netflix/Skydance Animation",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Comedy",
+      "Kids & Family"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Spellbound.jpg"
+  },
+  {
+    "title": "Armor",
+    "month": "NOVEMBER",
+    "openingDate": "22",
+    "productionCompany": "Lionsgate/Grindstone Entertainment Group",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Armor.jpg"
+  },
+  {
+    "title": "Out of My Mind",
+    "month": "NOVEMBER",
+    "openingDate": "22",
+    "productionCompany": "Disney+/Big Beach/Participant",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Out_of_My_Mind.jpg"
+  },
+  {
+    "title": "Bonhoeffer",
+    "month": "NOVEMBER",
+    "openingDate": "22",
+    "productionCompany": "Angel Studios",
+    "genres": [
+      "History",
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Biography"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Bonhoeffer.jpg"
+  },
+  {
+    "title": "Bread and Roses",
+    "month": "NOVEMBER",
+    "openingDate": "22",
+    "productionCompany": "Apple TV+",
+    "genres": [
+      "Documentary"
+    ],
+    "primaryGenre": "Documentary",
+    "posterFilename": "Bread_and_Roses.jpg"
+  },
+  {
+    "title": "The Fix",
+    "month": "NOVEMBER",
+    "openingDate": "22",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "The_Fix.jpg"
+  },
+  {
+    "title": "Dear Santa",
+    "month": "NOVEMBER",
+    "openingDate": "25",
+    "productionCompany": "Paramount+/Paramount Pictures/Conundrum Entertainment",
+    "genres": [
+      "Holiday",
+      "Comedy",
+      "Fantasy"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "Dear_Santa.jpg"
+  },
+  {
+    "title": "Watchmen Chapter II",
+    "month": "NOVEMBER",
+    "openingDate": "26",
+    "productionCompany": "Warner Bros. Pictures/Paramount Pictures/DC Entertainment",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller",
+      "Drama",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "primaryGenre": "Sci-Fi",
+    "posterFilename": "Watchmen_Chapter_II.jpg"
+  },
+  {
+    "title": "Hemet, or the Landlady Don't Drink Tea",
+    "month": "NOVEMBER",
+    "openingDate": "26",
+    "productionCompany": "BayView Entertainment / Charybdis Pictures / Rosewood Five",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": null
+  },
+  {
+    "title": "A Great Divide",
+    "month": "NOVEMBER",
+    "openingDate": "26",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "A_Great_Divide.jpg"
+  },
+  {
+    "title": "Moana 2",
+    "month": "NOVEMBER",
+    "openingDate": "27",
+    "productionCompany": "Walt Disney Pictures/Walt Disney Animation Studios",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Moana_2.jpg"
+  },
+  {
+    "title": "Queer",
+    "month": "NOVEMBER",
+    "openingDate": "27",
+    "productionCompany": "A24/Fremantle/The Apartment Pictures/Frenesy Film Company",
+    "genres": [
+      "Drama",
+      "Romance",
+      "LGBTQ+"
+    ],
+    "primaryGenre": "Romance",
+    "posterFilename": "Queer.jpg"
+  },
+  {
+    "title": "Maria",
+    "month": "NOVEMBER",
+    "openingDate": "27",
+    "productionCompany": "Netflix/Fremantle/The Apartment Pictures/FilmNation Entertainment",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Maria.jpg"
+  },
+  {
+    "title": "Our Little Secret",
+    "month": "NOVEMBER",
+    "openingDate": "27",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Holiday",
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Our_Little_Secret.jpg"
+  },
+  {
+    "title": "The Seed of the Sacred Fig",
+    "month": "NOVEMBER",
+    "openingDate": "27",
+    "productionCompany": "Film Boutique/Run Way Pictures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Seed_of_the_Sacred_Fig.jpg"
+  },
+  {
+    "title": "Sweethearts",
+    "month": "NOVEMBER",
+    "openingDate": "28",
+    "productionCompany": "Max/New Line Cinema",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Sweethearts.jpg"
+  },
+  {
+    "title": "Nutcrackers",
+    "month": "NOVEMBER",
+    "openingDate": "29",
+    "productionCompany": "Hulu/Rough House Pictures",
+    "genres": [
+      "Holiday",
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Nutcrackers.jpg"
+  },
+  {
+    "title": "That Christmas",
+    "month": "DECEMBER",
+    "openingDate": "4",
+    "productionCompany": "Netflix / Netflix Animation / Locksmith Animation",
+    "genres": [
+      "Holiday",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Kids & Family"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "That_Christmas.jpg"
+  },
+  {
+    "title": "Y2K",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "A24",
+    "genres": [
+      "Holiday",
+      "Comedy",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Y2K.jpg"
+  },
+  {
+    "title": "Nightbitch",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Searchlight Pictures/Annapurna Pictures",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Nightbitch.jpg"
+  },
+  {
+    "title": "The Six Triple Eight",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Netflix/Mandalay Pictures/Tyler Perry Studios",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Six_Triple_Eight.jpg"
+  },
+  {
+    "title": "The Order",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Vertical/AGC Studios",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "The_Order.jpg"
+  },
+  {
+    "title": "Werewolves",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Briarcliff Entertainment",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Werewolves.jpg"
+  },
+  {
+    "title": "The Return",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Bleecker Street/HanWay Films/RAI Cinema",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": "The_Return.jpg"
+  },
+  {
+    "title": "Oh, Canada",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Kino Lorber",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": null
+  },
+  {
+    "title": "Hard Truths",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "StudioCanal",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "Hard_Truths.jpg"
+  },
+  {
+    "title": "Mary",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Netflix",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Mary.jpg"
+  },
+  {
+    "title": "Jenni",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Vix",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Jenni.jpg"
+  },
+  {
+    "title": " On Becoming a Guinea Fowl",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "A24",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "primaryGenre": "Comedy",
+    "posterFilename": "_On_Becoming_a_Guinea_Fowl.jpg"
+  },
+  {
+    "title": "The Girl With the Needle",
+    "month": "DECEMBER",
+    "openingDate": "6",
+    "productionCompany": "Nordisk Film",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Girl_With_the_Needle.jpg"
+  },
+  {
+    "title": "Kraven the Hunter",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "Columbia Pictures/Marvel Entertainment/TSG Entertainment II/Arad Productions",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Kraven_the_Hunter.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "New Line Cinema/Warner Bros. Pictures/WingNut Films/Sola Entertainment",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Animation",
+      "Action",
+      "Anime"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "The_Lord_of_the_Rings_The_War_of_the_Rohirrim.jpg"
+  },
+  {
+    "title": "Carry-On",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "Netflix/DreamWorks Pictures",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Carry-On.jpg"
+  },
+  {
+    "title": "September 5",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "Paramount Pictures/Republic Pictures/Constantin Film",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "History",
+      "Drama",
+      "Sports",
+      "War"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "September_5.jpg"
+  },
+  {
+    "title": "Nickel Boys",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "Orion Pictures/Plan B Entertainment/Louverture Films/Anonymous Content",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Nickel_Boys.jpg"
+  },
+  {
+    "title": "The Last Showgirl",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "Roadside Attractions/Utopia/Pinky Promise",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Last_Showgirl.jpg"
+  },
+  {
+    "title": "Dirty Angels",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "Lionsgate/Millennium Media/Nu Boyana Film Studios",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Action",
+    "posterFilename": "Dirty_Angels.jpg"
+  },
+  {
+    "title": "Filthy Animals",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "Northway Films /Freestyle Releasing",
+    "genres": [
+      "Holiday",
+      "Crime",
+      "Drama",
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Filthy_Animals.jpg"
+  },
+  {
+    "title": "The Activated Man",
+    "month": "DECEMBER",
+    "openingDate": "13",
+    "productionCompany": "Stonecutter Media",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "The_Activated_Man.jpg"
+  },
+  {
+    "title": "The Little Mermaid",
+    "month": "DECEMBER",
+    "openingDate": "17",
+    "productionCompany": "Lionsgate",
+    "genres": [
+      "Kids & Family",
+      "Musical",
+      "Fantasy",
+      "Romance"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": "The_Little_Mermaid.jpg"
+  },
+  {
+    "title": "Glue Trap",
+    "month": "DECEMBER",
+    "openingDate": "17",
+    "productionCompany": "Gravitas Ventures",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Glue_Trap.jpg"
+  },
+  {
+    "title": "Sonic the Hedgehog 3",
+    "month": "DECEMBER",
+    "openingDate": "20",
+    "productionCompany": "Paramount Pictures/Sega Sammy Group/Original Film/Marza Animation Planet/Blur Studio",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "primaryGenre": "Fantasy",
+    "posterFilename": null
+  },
+  {
+    "title": "Mufasa: The Lion King",
+    "month": "DECEMBER",
+    "openingDate": "20",
+    "productionCompany": "Walt Disney Pictures",
+    "genres": [
+      "Kids & Family",
+      "Adventure",
+      "Drama",
+      "Animation"
+    ],
+    "primaryGenre": "Adventure",
+    "posterFilename": "Mufasa_The_Lion_King.jpg"
+  },
+  {
+    "title": "The Brutalist",
+    "month": "DECEMBER",
+    "openingDate": "20",
+    "productionCompany": "A24/Brookstreet Pictures",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Brutalist.jpg"
+  },
+  {
+    "title": "Homestead",
+    "month": "DECEMBER",
+    "openingDate": "20",
+    "productionCompany": "Angel Studios",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Homestead.jpg"
+  },
+  {
+    "title": "Nosferatu",
+    "month": "DECEMBER",
+    "openingDate": "25",
+    "productionCompany": "Focus Features/Studio 8",
+    "genres": [
+      "Horror"
+    ],
+    "primaryGenre": "Horror",
+    "posterFilename": "Nosferatu.jpg"
+  },
+  {
+    "title": "A Complete Unknown",
+    "month": "DECEMBER",
+    "openingDate": "25",
+    "productionCompany": "Searchlight Pictures/The Picture Company",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "A_Complete_Unknown.jpg"
+  },
+  {
+    "title": "Better Man",
+    "month": "DECEMBER",
+    "openingDate": "25",
+    "productionCompany": "Paramount Pictures",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Better_Man.jpg"
+  },
+  {
+    "title": "The Fire Inside",
+    "month": "DECEMBER",
+    "openingDate": "25",
+    "productionCompany": "Metro-Goldwyn-Mayer",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sports"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "The_Fire_Inside.jpg"
+  },
+  {
+    "title": "Babygirl",
+    "month": "DECEMBER",
+    "openingDate": "25",
+    "productionCompany": "A24/2AM",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "primaryGenre": "Thriller",
+    "posterFilename": "Babygirl.jpg"
+  },
+  {
+    "title": "Los Frikis",
+    "month": "DECEMBER",
+    "openingDate": "25",
+    "productionCompany": "Wayward/Range /Lord Miller",
+    "genres": [
+      "Drama"
+    ],
+    "primaryGenre": "Drama",
+    "posterFilename": "Los_Frikis.jpg"
+  }
+]
