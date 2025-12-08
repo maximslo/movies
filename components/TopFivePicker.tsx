@@ -153,7 +153,7 @@ export default function TopFivePicker({ movies }: TopFivePickerProps) {
       {/* Yellow Container */}
       <div className="bg-amber-300 rounded-2xl p-6 md:p-8">
         <h2 className="text-3xl md:text-4xl font-sans font-black text-gray-900 mb-3 text-center">
-          Pick our Top 5 Movies
+          Pick your Top 5 Movies
         </h2>
         <p className="text-base md:text-lg text-gray-900 mb-6 text-center">
           Select your favorites and I&apos;ll recommend movies you might enjoy

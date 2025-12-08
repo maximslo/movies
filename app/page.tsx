@@ -95,7 +95,7 @@ export default function Home() {
         <div className="max-w-2xl mx-auto px-6 md:px-12 lg:px-16">
           {/* Opening Paragraph */}
           <p className="text-xl md:text-2xl leading-relaxed text-gray-200 mb-8 font-serif">
-            Every December I end up thinking about all the movies I didn’t watch. Roughly 500 films come out each year. Yet at my best I manage maybe one a week, usually on a night in with friends or family. In the age of short-form everything, the feature film almost feels like an older, more deliberate art form I'm relearning how to appreciate (I’m a 22-year-old born in 2003; I’d love to pretend my attention span hasn’t been kneecapped by the algorithm, but here we are).
+            Every December I end up thinking about all the movies I didn’t watch. Roughly 500 films come out each year. Yet at my best I manage maybe one a week, usually on a night in with friends or family. In the age of short-form everything, the feature film feels like an older, more deliberate art form I'm relearning how to appreciate (I was born in 2003 and while I’d love to pretend my attention span hasn’t been kneecapped by the algorithm, here we are).
 
           </p>
         </div>
