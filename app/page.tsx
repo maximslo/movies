@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import GenreGrid from '@/components/GenreGrid';
 import CompactGenreGrid from '@/components/CompactGenreGrid';
+import TitleEmbeddingBackground from '@/components/TitleEmbeddingBackground';
 import MovieSearch from '@/components/MovieSearch';
 import TopFivePicker from '@/components/TopFivePicker';
 import { Movie } from '@/lib/types';
@@ -36,8 +37,9 @@ export default function Home() {
   return (
     <article className="min-h-screen bg-black">
       {/* Hero Section */}
-      <header className="py-16 px-6 md:py-32 bg-black">
-        <div className="max-w-6xl mx-auto">
+      <header className="relative overflow-hidden py-16 px-6 md:py-32 bg-black">
+        <TitleEmbeddingBackground />
+        <div className="relative z-10 max-w-6xl mx-auto">
           {/* Title with integrated poster */}
           <h1 className="text-5xl md:text-7xl lg:text-8xl xl:text-9xl font-sans font-black text-center leading-[0.85] text-white tracking-tight">
             {/* Mobile Layout */}
@@ -95,8 +97,19 @@ export default function Home() {
         <div className="max-w-2xl mx-auto px-6 md:px-12 lg:px-16">
           {/* Opening Paragraph */}
           <p className="text-xl md:text-2xl leading-relaxed text-gray-200 mb-8 font-serif">
-            Every December I end up thinking about all the movies I didn’t watch. Roughly 500 films come out each year. Yet at my best I manage maybe one a week, usually on a night in with friends or family. In the age of short-form everything, the feature film feels like an older, more deliberate art form I'm relearning how to appreciate (I was born in 2003 and while I’d love to pretend my attention span hasn’t been kneecapped by the algorithm, here we are).
-
+            Above is every movie as a point in 3k dimensional space using vector embedding, clustered via Leiden community detection algorithm and mapped to 2D with UMAP.{' '}
+            <a
+              href="https://maximslo.com/work/every-movie-2024/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline decoration-gray-500 underline-offset-4 hover:text-white transition-colors"
+            >
+              Read more about how I built this
+            </a>
+            .
+          </p>
+          <p className="text-xl md:text-2xl leading-relaxed text-gray-200 mb-8 font-serif">
+            Every December I end up thinking about all the movies I didn’t watch. Roughly 500 films come out each year. Yet at my best I manage maybe one a week, usually on a night in with friends or family. In the age of short-form everything, the feature film feels like an older, more deliberate art form I'm relearning how to appreciate.
           </p>
         </div>
       </div>

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 0,
+    "parent": 0,
+    "name": "Identity Unbound",
+    "blurb": "Audacious dramas exploring evolving identities, complex connections, and personal truths.",
+    "size": 83,
+    "color": "#2563eb",
+    "examples": [
+      "Good Grief",
+      "Fugitive Dreams",
+      "The Kitchen",
+      "Eno"
+    ]
+  },
+  {
+    "id": 1,
+    "parent": 0,
+    "name": "Unveiled Histories",
+    "blurb": "Dramatic tales of real people confronting history and destiny.",
+    "size": 49,
+    "color": "#f97316",
+    "examples": [
+      "Society of the Snow",
+      "Race for Glory: Audi vs. Lancia",
+      "Disco Boy",
+      "The Promised Land"
+    ]
+  },
+  {
+    "id": 2,
+    "parent": 0,
+    "name": "Female Reckonings",
+    "blurb": "Complex women navigate identity, desire, power, and difficult relationships.",
+    "size": 24,
+    "color": "#16a34a",
+    "examples": [
+      "Miller's Girl",
+      "Cold Copy",
+      "How to Have Sex",
+      "Lola"
+    ]
+  },
+  {
+    "id": 3,
+    "parent": 1,
+    "name": "Haunted Psychological Terrors",
+    "blurb": "Experience unsettling supernatural encounters, twisted minds, and brutal, chilling confrontations.",
+    "size": 82,
+    "color": "#dc2626",
+    "examples": [
+      "Night Swim",
+      "Destroy All Neighbors",
+      "Origin",
+      "Sunrise"
+    ]
+  },
+  {
+    "id": 4,
+    "parent": 1,
+    "name": "Bloody Backwoods",
+    "blurb": "Gore-drenched slashers, sinister cults, and monsters haunt the wilderness.",
+    "size": 26,
+    "color": "#9333ea",
+    "examples": [
+      "The Mummy Murders",
+      "Foe",
+      "Murder and Cocktails",
+      "There Is a Monster"
+    ]
+  },
+  {
+    "id": 5,
+    "parent": 2,
+    "name": "High-Octane Mayhem",
+    "blurb": "Relentless blockbusters deliver epic battles and global stakes.",
+    "size": 63,
+    "color": "#06b6d4",
+    "examples": [
+      "The Book of Clarence",
+      "Lift",
+      "I.S.S.",
+      "Argylle"
+    ]
+  },
+  {
+    "id": 6,
+    "parent": 2,
+    "name": "Epic Animated Escapades",
+    "blurb": "Join colorful characters on grand, action-packed adventures through vibrant worlds.",
+    "size": 34,
+    "color": "#eab308",
+    "examples": [
+      "Hundreds of Beavers",
+      "Orion and the Dark",
+      "The Tiger's Apprentice",
+      "Megamind vs. the Doom Syndicate"
+    ]
+  },
+  {
+    "id": 7,
+    "parent": 3,
+    "name": "Hunter Hunted",
+    "blurb": "Relentless pursuits, dark conspiracies, and desperate struggles against unforgiving odds.",
+    "size": 75,
+    "color": "#db2777",
+    "examples": [
+      "DarkGame",
+      "He Went That Way",
+      "The Painter",
+      "Some Other Woman"
+    ]
+  },
+  {
+    "id": 8,
+    "parent": 3,
+    "name": "Twisted Intrigue",
+    "blurb": "Convoluted schemes, lethal secrets, and dangerous minds collide.",
+    "size": 21,
+    "color": "#84cc16",
+    "examples": [
+      "Self Reliance",
+      "The Bricklayer",
+      "Role Play",
+      "Cult Killer"
+    ]
+  },
+  {
+    "id": 9,
+    "parent": 4,
+    "name": "Heartfelt Laughter",
+    "blurb": "Uplifting tales of love, self-discovery, and hilarious mishaps.",
+    "size": 66,
+    "color": "#f43f5e",
+    "examples": [
+      "Husband for Sale",
+      "Beautiful Wedding",
+      "The Underdoggs",
+      "Scrambled"
+    ]
+  },
+  {
+    "id": 10,
+    "parent": 5,
+    "name": "Offbeat Romps",
+    "blurb": "Funny films navigating life's absurdities and heartfelt connections.",
+    "size": 43,
+    "color": "#14b8a6",
+    "examples": [
+      "Mean Girls",
+      "Which Brings Me to You",
+      "Sometimes I Think About Dying",
+      "Drift"
+    ]
+  }
+]
