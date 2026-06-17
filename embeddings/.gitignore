@@ -1,0 +1,21 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# large / derived artifacts (regenerable; keep out of git + Vercel)
+*.npy
+vector_cache.json
+ids.json
+enriched.json
+tmdb_misses.json
+overrides.json
+posters_cache/
+*.log
+
+# scratch renders
+hero*.png
+*_preview.png

@@ -1,0 +1,9 @@
+google-genai
+requests
+pandas
+numpy
+python-igraph
+leidenalg
+umap-learn
+scikit-learn
+python-dotenv
