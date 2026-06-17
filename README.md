@@ -13,6 +13,8 @@ point in **3,072-dimensional space** with a *multimodal* embedding — its plot,
 cast, and **poster image** in a single vector — and then grouped by **semantic similarity**.
 Films land near each other because of what they're *about*, not how they were labeled.
 
+Now Challengers lands near Marriage Story and Blue Valentine rather than "sports movies".
+
 ## How it works
 
 ```
