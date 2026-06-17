@@ -1,10 +1,8 @@
-# every movie in 2024, visualized
+# Every Movie in 2024, Visualized
 
-A visual exploration of all 573 US films released in 2024 — and an experiment in
-escaping genre labels.
+An exploration of all 573 US films released in 2024. [How I built this!](https://maximslo.com/work/every-movie-2024/)
 
-**Live:** [movies.maximslo.com](https://movies.maximslo.com) ·
-**Writeup:** [how I built this](https://maximslo.com/work/every-movie-2024/)
+<img style="width:400px; height:auto;" alt="movie_clusters" src="https://github.com/user-attachments/assets/9978aa2c-c032-410e-8875-c99ed397d348" />
 
 ## The idea
 
