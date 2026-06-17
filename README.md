@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# every movie in 2024, visualized
 
-## Getting Started
+A visual exploration of all 573 US films released in 2024 — and an experiment in
+escaping genre labels.
 
-First, run the development server:
+**Live:** [movies.maximslo.com](https://movies.maximslo.com) ·
+**Writeup:** [how I built this](https://maximslo.com/work/every-movie-2024/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## The idea
+
+Genres don't tile cleanly. *Everything Everywhere All at Once* is action, sci-fi, comedy,
+drama, and family at once, and the same film gets tagged differently on IMDb, Wikipedia, and
+Rotten Tomatoes. Any viz that drops a film into one bucket misrepresents most of them.
+
+So the cluster cloud behind the title doesn't use genres at all. Each film is turned into a
+point in **3,072-dimensional space** with a *multimodal* embedding — its plot, keywords,
+cast, and **poster image** in a single vector — and then grouped by **semantic similarity**.
+Films land near each other because of what they're *about*, not how they were labeled.
+
+## How it works
+
+```
+scrapers/ ──► dataset.csv ──► public/movies.json          (573 films: title, genres, poster)
+                                     │
+                  TMDB enrich  ──────┘   plot · keywords · cast · directors · poster
+                                     │
+            Gemini Embedding 2 ──────┘   text + poster → one 3072-d vector  (multimodal)
+                                     │
+              Leiden (cosine kNN) ───┘   6 broad communities
+                                     │
+                    UMAP (2D) ───────┘   x, y for every film
+                                     │
+      recursive Leiden + ───────────┘   11 "vibe" sub-clusters, each named by
+        gemini-2.5-flash                 the LLM (e.g. "Mind-Bending Terrors")
+                                     │
+                                     ▼
+        public/embedding.json + public/clusters.json
+                                     │
+                                     ▼
+        components/TitleEmbeddingBackground.tsx  →  SVG particle cloud behind the hero
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Three things worth noting:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Multimodal embedding** — metadata text *and* the poster are fused into one
+  [Gemini Embedding 2](https://ai.google.dev/gemini-api/docs/embeddings) vector, so visual
+  style influences similarity, not just plot.
+- **Two-level clustering** — Leiden finds 6 communities, then runs again *within* each to
+  split out 11 finer "vibes," which `gemini-2.5-flash` names from their member films.
+- **Zero runtime ML** — the whole pipeline runs offline; the deployed site just ships static
+  JSON and draws SVG dots. Fast, cacheable, no inference on the request path.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Repo layout
 
-## Learn More
+```
+movies/
+├── app/                  Next.js 16 App Router — the article (page.tsx, layout.tsx)
+├── components/           viz components; TitleEmbeddingBackground.tsx = the cluster cloud
+├── lib/types.ts          the Movie type
+├── public/
+│   ├── movies.json       573 films (source of truth for the site)
+│   ├── posters/          poster images
+│   ├── embedding.json    one point per film: x, y, community, subcluster, vibe, color
+│   └── clusters.json     the 11 vibes: name, blurb, size, color, examples
+├── scrapers/             Wikipedia/TMDB/RT scrapers, posters.py, dataset.csv
+└── embeddings/           the embedding → Leiden → UMAP pipeline  (see its README)
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Run it
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm install
+npm run dev        # http://localhost:3000   (build: npm run build)
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Regenerating the cluster data is a separate, offline step — see
+[`embeddings/README.md`](embeddings/README.md). It needs a TMDB token and Google Cloud ADC
+(Vertex AI) for the embeddings, then runs five cached Python steps.
 
-## Deploy on Vercel
+## Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Web:** Next.js 16 · React 19 · TypeScript · Tailwind v4 — deployed on Vercel
+(auto-deploys from `main`).
+**Pipeline:** `google-genai` (Vertex/ADC) · `leidenalg` + `python-igraph` · `umap-learn` ·
+`scikit-learn`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Secrets (`.env`), the Python `.venv/`, and large derived artifacts (`vectors.npy`,
+> `vector_cache.json`) are gitignored — they never leave the machine.

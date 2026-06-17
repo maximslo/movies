@@ -14,10 +14,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "every movie in 2024, visualized",
-  description: "A visual exploration of all 566 films released in 2024.",
+  description: "A visual exploration of all 573 films released in 2024.",
   openGraph: {
     title: "every movie in 2024, visualized",
-    description: "A visual exploration of all 566 films released in 2024",
+    description: "A visual exploration of all 573 films released in 2024",
     images: [
       {
         url: "/camera-icon.png",
